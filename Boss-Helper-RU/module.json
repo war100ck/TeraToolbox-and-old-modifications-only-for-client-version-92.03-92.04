@@ -1,0 +1,19 @@
+{
+    "name": "Boss-Helper",
+    "options": {
+        "niceName": "Boss-Helper(Помощь по поиску мировых Боссов и торговцев)",
+        "guiName": "Boss-Helper~(Помощь по поиску мировых Боссов и торговцев)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 11
+    },
+    "author": "ZC / mopihu / Owyn/ Lambda11",
+    "description": "Когда нужный NPC (БОСС / Рейдовый БОСС / Странствующий торговец) появляется в видимом диапазоне, будет отправлено соответствующее текстовое сообщение, и местоположение будет отмечено столбом света.",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Boss-Helper/master/"],
+    "supportUrl": "https://github.com/tera-mod/Boss-Helper/issues",
+    "dependencies": {
+        "notifier": "https://raw.githubusercontent.com/SerenTera/tera-notifier/master/module.json",
+        "tera-message": "https://raw.githubusercontent.com/tera-mod/tera-message/master/module.json"
+    },
+    "version": "RU v92.04"
+}

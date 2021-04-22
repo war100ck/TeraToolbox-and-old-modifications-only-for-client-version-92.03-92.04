@@ -1,0 +1,18 @@
+{
+    "name": "Easy-Fishing",
+    "options": {
+        "niceName": "Easy-Fishing(Автоматическая рыбалка)",
+        "guiName": "Easy-Fishing(Автоматическая рыбалка)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 6
+    },
+    "author": "ZC / TerableCoder",
+    "description": "Автоматическая рыбалка  / продажа / разборка / выброс / салат / задержка / дистанция рыбалки",
+    "servers": [""],
+    "supportUrl": "https://github.com/tera-mod/Easy-Fishing/issues",
+    "dependencies": {
+        "tera-message": "https://raw.githubusercontent.com/tera-mod/tera-message/master/module.json"
+    },
+    "version": "RU v92.04"
+}

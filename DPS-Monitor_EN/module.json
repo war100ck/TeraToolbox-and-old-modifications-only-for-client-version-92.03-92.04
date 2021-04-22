@@ -1,0 +1,19 @@
+{
+    "disableAutoUpdate": false,
+    "name": "DPS-Monitor",
+    "options": {
+        "niceName": "Tera DPS Monitor (Подсчет статистики боя)",
+        "guiName": "Tera DPS Monitor (Подсчет статистики боя)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC, translation EN: war100ck",
+    "description": "Описание: DPS-метр, сохранение статистики на веб сайте.",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/DPS-Monitor_EN/"],
+    "supportUrl": "https://github.com/tera-mod/DPS-Monitor/issues",
+    "dependencies": {
+        "tera-message": "https://raw.githubusercontent.com/tera-mod/tera-message/master/module.json"
+    },
+    "version": "EN v92.04"
+}

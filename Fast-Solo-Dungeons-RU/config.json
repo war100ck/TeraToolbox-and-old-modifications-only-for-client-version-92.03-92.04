@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "data": {
+        "velikaredirect": true,
+        "ghilliereset": true,
+        "boxredirect": true,
+        "fastsolo": true,
+        "acereset": true
+    }
+}

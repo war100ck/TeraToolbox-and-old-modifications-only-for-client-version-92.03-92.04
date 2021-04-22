@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баньякас 874.K/s 31.4M 00:36</font>",
+		"battleDuration": 36582,
+		"battleendtime": 1614966518083,
+		"totalPartyDamage": 31490556,
+		"huntingZoneId": 713,
+		"templateId": 81301
+	},
+	{
+		"gameId": "140737671856207",
+		"name": "FORTEST",
+		"class": 8,
+		"serverId": 2800,
+		"totalDamage": 31490556,
+		"dps": 860821,
+		"percentage": 100,
+		"crit": 47,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Свирепый удар III</font></td><td>724.K<br>241.K</td><td class=\"critClr\">11.3M<br>1.62M</td><td class=\"totalClr\">12.1M<br>1.21M</td><td class=\"perClr\">70%<br>7/10</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Разделяющий удар III</font></td><td>0<br>0</td><td class=\"critClr\">9.9M<br>3.3M</td><td class=\"totalClr\">9.9M<br>3.3M</td><td class=\"perClr\">100%<br>3/3</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Пила II</font></td><td>730.K<br>243.K</td><td class=\"critClr\">2.1M<br>526.K</td><td class=\"totalClr\">2.83M<br>405.K</td><td class=\"perClr\">57%<br>4/7</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Призрачная плеть II</font></td><td>1.15M<br>115.K</td><td class=\"critClr\">1.33M<br>334.K</td><td class=\"totalClr\">2.48M<br>177.K</td><td class=\"perClr\">28%<br>4/14</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Спираль смерти II</font></td><td>480.K<br>68.7K</td><td class=\"critClr\">1.85M<br>206.K</td><td class=\"totalClr\">2.33M<br>145.K</td><td class=\"perClr\">56%<br>9/16</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Двойной разрез III</font></td><td>1.34M<br>268.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">1.34M<br>268.K</td><td class=\"perClr\">0%<br>0/5</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар маятника II</font></td><td>270.K<br>270.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">270.K<br>270.K</td><td class=\"perClr\">0%<br>0/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Безжалостный удар</font></td><td>216.K<br>216.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">216.K<br>216.K</td><td class=\"perClr\">0%<br>0/1</td></tr></table>"
+	}
+]

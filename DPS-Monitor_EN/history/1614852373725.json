@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баракос 1.31M/s 26.2M 00:20</font>",
+		"battleDuration": 20024,
+		"battleendtime": 1614852373677,
+		"totalPartyDamage": 26295159,
+		"huntingZoneId": 432,
+		"templateId": 101
+	},
+	{
+		"gameId": "140737671856144",
+		"name": "16Bit",
+		"class": 8,
+		"serverId": 2800,
+		"totalDamage": 26295159,
+		"dps": 1313182,
+		"percentage": 100,
+		"crit": 40,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Разделяющий удар III</font></td><td>1.63M<br>1.63M</td><td class=\"critClr\">6.72M<br>6.72M</td><td class=\"totalClr\">8.36M<br>4.18M</td><td class=\"perClr\">50%<br>1/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Свирепый удар III</font></td><td>1.36M<br>453.K</td><td class=\"critClr\">5.86M<br>1.95M</td><td class=\"totalClr\">7.23M<br>1.2M</td><td class=\"perClr\">50%<br>3/6</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Призрачный шквал II</font></td><td>0<br>0</td><td class=\"critClr\">4.31M<br>4.31M</td><td class=\"totalClr\">4.31M<br>4.31M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Двойной разрез III</font></td><td>1.53M<br>306.K</td><td class=\"critClr\">1.1M<br>1.1M</td><td class=\"totalClr\">2.64M<br>440.K</td><td class=\"perClr\">16%<br>1/6</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Спираль смерти II</font></td><td>727.K<br>90.9K</td><td class=\"critClr\">1.47M<br>245.K</td><td class=\"totalClr\">2.19M<br>157.K</td><td class=\"perClr\">42%<br>6/14</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар маятника II</font></td><td>343.K<br>343.K</td><td class=\"critClr\">999.K<br>999.K</td><td class=\"totalClr\">1.34M<br>671.K</td><td class=\"perClr\">50%<br>1/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Безжалостный удар</font></td><td>205.K<br>205.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">205.K<br>205.K</td><td class=\"perClr\">0%<br>0/1</td></tr></table>"
+	}
+]

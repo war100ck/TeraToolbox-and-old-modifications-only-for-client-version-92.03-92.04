@@ -1,0 +1,12 @@
+{
+    "name": "Drop-Notice",
+    "options": {
+        "niceName": "Drop-Notice (Drop Уведомление)",
+        "guiName": "Drop-Notice (Drop Уведомление)"
+    },
+    "author": "ZC / seraphinush-gaming",
+    "description": "Выводит сообщение в чате когда выподает определенный ценный предмет",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "RU v92.04"
+}

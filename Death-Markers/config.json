@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "data": {
+        "enabled": true,
+        "DefaultItemSpawn": 98260,
+        "UseJobSpecificMarkers": true,
+        "TankItemSpawn": 91177,
+        "HealerItemSpawn": 91113
+    }
+}

@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Барундар 1.09M/s 341.M 05:13</font>",
+		"battleDuration": 313041,
+		"battleendtime": 1612775233856,
+		"totalPartyDamage": 341694718,
+		"huntingZoneId": 809,
+		"templateId": 3001
+	},
+	{
+		"gameId": "140737671856332",
+		"name": "war100ck",
+		"class": 9,
+		"serverId": 2800,
+		"totalDamage": 341694718,
+		"dps": 1091533,
+		"percentage": 100,
+		"crit": 89,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч</font></td><td>0<br>0</td><td class=\"critClr\">45.4M<br>1.97M</td><td class=\"totalClr\">45.4M<br>1.97M</td><td class=\"perClr\">100%<br>23/23</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч_Часовая бомба</font></td><td>1.09M<br>91.2K</td><td class=\"critClr\">44.1M<br>1.26M</td><td class=\"totalClr\">45.2M<br>961.K</td><td class=\"perClr\">74%<br>35/47</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Заградительный огонь X</font></td><td>385.K<br>29.6K</td><td class=\"critClr\">36.2M<br>326.K</td><td class=\"totalClr\">36.6M<br>295.K</td><td class=\"perClr\">89%<br>111/124</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Ковровая бомбардировка</font></td><td>0<br>0</td><td class=\"critClr\">34.4M<br>766.K</td><td class=\"totalClr\">34.4M<br>766.K</td><td class=\"perClr\">100%<br>45/45</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мана-ракеты X</font></td><td>0<br>0</td><td class=\"critClr\">28.8M<br>450.K</td><td class=\"totalClr\">28.8M<br>450.K</td><td class=\"perClr\">100%<br>64/64</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Бомбардировка VI</font></td><td>295.K<br>295.K</td><td class=\"critClr\">27.9M<br>797.K</td><td class=\"totalClr\">28.2M<br>783.K</td><td class=\"perClr\">97%<br>35/36</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Залп картечью XI</font></td><td>1.96M<br>115.K</td><td class=\"critClr\">24.1M<br>331.K</td><td class=\"totalClr\">26.1M<br>290.K</td><td class=\"perClr\">81%<br>73/90</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">undefined</font></td><td>0<br>0</td><td class=\"critClr\">21M<br>262.K</td><td class=\"totalClr\">21M<br>262.K</td><td class=\"perClr\">100%<br>80/80</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Разрывной снаряд VIII</font></td><td>209.K<br>69.8K</td><td class=\"critClr\">18.6M<br>1.33M</td><td class=\"totalClr\">18.8M<br>1.1M</td><td class=\"perClr\">82%<br>14/17</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Лучевой заградительный огонь</font></td><td>134.K<br>33.5K</td><td class=\"critClr\">16.1M<br>153.K</td><td class=\"totalClr\">16.2M<br>149.K</td><td class=\"perClr\">96%<br>105/109</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Месть Балдера II</font></td><td>0<br>0</td><td class=\"critClr\">13.3M<br>13.3M</td><td class=\"totalClr\">13.3M<br>13.3M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Электрическая бомба VI</font></td><td>1.51M<br>126.K</td><td class=\"critClr\">10.9M<br>363.K</td><td class=\"totalClr\">12.4M<br>295.K</td><td class=\"perClr\">71%<br>30/42</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">[РП-1] Ковровая бомбардировка</font></td><td>306.K<br>306.K</td><td class=\"critClr\">7.93M<br>991.K</td><td class=\"totalClr\">8.24M<br>915.K</td><td class=\"perClr\">88%<br>8/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Граната IX</font></td><td>1.11M<br>158.K</td><td class=\"critClr\">1.76M<br>440.K</td><td class=\"totalClr\">2.87M<br>261.K</td><td class=\"perClr\">36%<br>4/11</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Ответный удар X</font></td><td>177.K<br>177.K</td><td class=\"critClr\">1.48M<br>494.K</td><td class=\"totalClr\">1.66M<br>415.K</td><td class=\"perClr\">75%<br>3/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Взрывной прыжок VIII</font></td><td>203.K<br>203.K</td><td class=\"critClr\">1.21M<br>606.K</td><td class=\"totalClr\">1.41M<br>471.K</td><td class=\"perClr\">66%<br>2/3</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Часовая бомба XI</font></td><td>599.K<br>299.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">599.K<br>299.K</td><td class=\"perClr\">0%<br>0/2</td></tr></table>"
+	}
+]

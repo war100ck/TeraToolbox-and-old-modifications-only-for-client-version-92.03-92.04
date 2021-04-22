@@ -1,0 +1,22 @@
+{
+    "files": {
+        "index.js": "87d3ef45bfbcf04baa27c3a6a2b9993bd402c4d15aa1d6375f4d56ef0a891c62",
+        "mods/mainmodule-1/config.json": "38f630a162ce21c67e2f9c8f31054b5182fb9f30df2b496413d7dd1e271177e3",
+        "mods/mainmodule-1/index.js": "11a00c67701f7b5e4b781f1388a3c016393355f7807cd4969792f3240da96b43",
+        "mods/mainmodule-2/config.json": "325fd850e16f51448355ce82fce52bfc3f81a0812ae15808254b4a81d3a4106d",
+        "mods/mainmodule-2/index.js": "8b55f6480138bbf125c9855f925d90dec4cbbb2e3f425a08704a587c4a5d7a65",
+        "module.json": "90489a4dc5dc0491b5befc189bdfa3ead0f72b119000ebcc22e684882e826805",
+        "settings_migrator.js": "d170c52ddca6e82f069c86a4dc41e6325bce37e55a6d67a3282d5d17085a910b",
+        "settings_structure.js": "051ab2dabc3b2585164db55f1db745432e8714a51109cff923cfcc7fb1ebc75e"
+    },
+    "defs": {
+        "C_RESET_ALL_DUNGEON": 1,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_INSTANT_MOVE": 3,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_DROPITEM": [6,9],
+        "S_SPAWN_ME": 3,
+        "S_SPAWN_NPC": [10,12]
+    }
+}

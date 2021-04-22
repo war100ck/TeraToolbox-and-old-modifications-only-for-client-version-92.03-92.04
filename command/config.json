@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "data": {
+        "login_message": true,
+        "private_channel_name": "GM",
+        "public_enable": true,
+        "hide_module_names": true
+    }
+}

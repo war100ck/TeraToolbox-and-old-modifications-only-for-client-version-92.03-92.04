@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Cosplayer",
+    "author": "TeraProxy",
+    "description": "Changes your client-side appearance. Free costumes, mounts, weapon skins and much more!",
+    "version": "2.2.20",
+    "donationUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A3KBZUCSEQ5RJ",
+    "options": {
+        "niceName": "Cosplay",
+        "guiName": "Cosplayer"
+    },
+    "servers": [""],
+    "supportUrl": "https://github.com/TeraProxy/Cosplayer/issues",
+    "dependencies": {
+        "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
+    }
+}

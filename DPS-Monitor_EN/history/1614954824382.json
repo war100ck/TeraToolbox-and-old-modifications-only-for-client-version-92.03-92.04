@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Слабый Петрэ 7.05M/s 112.M 00:16</font>",
+		"battleDuration": 16792,
+		"battleendtime": 1614954824318,
+		"totalPartyDamage": 112850326,
+		"huntingZoneId": 126,
+		"templateId": 1071
+	},
+	{
+		"gameId": "140737671856200",
+		"name": "war100ck",
+		"class": 9,
+		"serverId": 2800,
+		"totalDamage": 112850326,
+		"dps": 6720481,
+		"percentage": 100,
+		"crit": 88,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Месть Балдера II</font></td><td>0<br>0</td><td class=\"critClr\">59.5M<br>59.5M</td><td class=\"totalClr\">59.5M<br>59.5M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Ковровая бомбардировка</font></td><td>0<br>0</td><td class=\"critClr\">17M<br>1.42M</td><td class=\"totalClr\">17M<br>1.42M</td><td class=\"perClr\">100%<br>12/12</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Бомбардировка VI</font></td><td>1.82M<br>607.K</td><td class=\"critClr\">12.6M<br>2.1M</td><td class=\"totalClr\">14.4M<br>1.6M</td><td class=\"perClr\">66%<br>6/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мана-ракеты X</font></td><td>0<br>0</td><td class=\"critClr\">8.82M<br>1.76M</td><td class=\"totalClr\">8.82M<br>1.76M</td><td class=\"perClr\">100%<br>5/5</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч</font></td><td>0<br>0</td><td class=\"critClr\">5.16M<br>5.16M</td><td class=\"totalClr\">5.16M<br>5.16M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч_Часовая бомба</font></td><td>191.K<br>191.K</td><td class=\"critClr\">4.35M<br>4.35M</td><td class=\"totalClr\">4.54M<br>2.27M</td><td class=\"perClr\">50%<br>1/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">undefined</font></td><td>0<br>0</td><td class=\"critClr\">3.22M<br>644.K</td><td class=\"totalClr\">3.22M<br>644.K</td><td class=\"perClr\">100%<br>5/5</td></tr></table>"
+	}
+]

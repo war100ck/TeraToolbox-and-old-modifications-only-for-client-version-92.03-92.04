@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Custom-Font",
+    "category": "client",
+    "description": "Читабельный шрифт",
+    "author": "",
+    "options": {
+        "niceName": "Calypso-Font (Читабельный шрифт)",
+        "guiName": "Calypso-Font (Читабельный шрифт)"
+    },
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/Custom-Font/"],
+    "version": "v92.04"
+}

@@ -1,0 +1,1314 @@
+[
+	{
+		"gameId": "72198331559131869",
+		"playerId": 127629,
+		"serverId": 501,
+		"templateId": 11009,
+		"name": "war10ck",
+		"class": 8,
+		"Targets": {}
+	},
+	{
+		"gameId": "72198331559131725",
+		"playerId": 2322945,
+		"serverId": 501,
+		"templateId": 10111,
+		"name": "Aegeus",
+		"class": 10,
+		"Targets": {}
+	},
+	{
+		"gameId": "72198331559132258",
+		"playerId": 2905926,
+		"serverId": 501,
+		"templateId": 10911,
+		"name": "Базили0",
+		"class": 10,
+		"Targets": {}
+	},
+	{
+		"gameId": "72198331559713579",
+		"playerId": 2689185,
+		"serverId": 501,
+		"templateId": 11011,
+		"name": "LailaAli",
+		"class": 10,
+		"Targets": {}
+	},
+	{
+		"gameId": "72198331559714218",
+		"playerId": 2842595,
+		"serverId": 501,
+		"templateId": 10408,
+		"name": "IronMa1den",
+		"class": 7,
+		"Targets": {}
+	},
+	{
+		"gameId": "72198331559720309",
+		"playerId": 2571349,
+		"serverId": 501,
+		"templateId": 11010,
+		"name": "WarGunner",
+		"class": 9,
+		"Targets": {}
+	},
+	{
+		"gameId": "140737671856202",
+		"playerId": 47,
+		"serverId": 2800,
+		"templateId": 10211,
+		"name": "Бамбарбия",
+		"class": 10,
+		"Targets": {}
+	},
+	{
+		"gameId": "140737671856206",
+		"playerId": 2,
+		"serverId": 2800,
+		"templateId": 11010,
+		"name": "war100ck",
+		"class": 9,
+		"Targets": {}
+	},
+	{
+		"gameId": "140737671856207",
+		"playerId": 132,
+		"serverId": 2800,
+		"templateId": 11009,
+		"name": "FORTEST",
+		"class": 8,
+		"Targets": {
+			"3518437209242183": {
+				"damage": 55358954,
+				"dead": 0,
+				"critDamage": 46113666,
+				"hit": 151,
+				"crit": 55,
+				"heal": 0,
+				"critHeal": 0,
+				"healHit": 0,
+				"healCrit": 0,
+				"skillLog": [
+					{
+						"skillId": "A230100",
+						"type": 1,
+						"Time": 1614968297195,
+						"damage": 61704,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230131",
+						"type": 1,
+						"Time": 1614968297879,
+						"damage": 546713,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968297934,
+						"damage": 37147,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968297970,
+						"damage": 3842,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968298398,
+						"damage": 3942,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968298787,
+						"damage": 3929,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230131",
+						"type": 1,
+						"Time": 1614968298858,
+						"damage": 558320,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968299193,
+						"damage": 3894,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968299631,
+						"damage": 11360,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968300013,
+						"damage": 11350,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968300420,
+						"damage": 4021,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968300860,
+						"damage": 10532,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968301260,
+						"damage": 3715,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A90100",
+						"type": 1,
+						"Time": 1614968301640,
+						"damage": 78067,
+						"crit": false,
+						"name": "Безжалостный удар"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968301690,
+						"damage": 3776,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968302131,
+						"damage": 10609,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968302490,
+						"damage": 291078,
+						"crit": true,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968302508,
+						"damage": 11170,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968302919,
+						"damage": 3720,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968303226,
+						"damage": 100831,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968303352,
+						"damage": 10808,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968303605,
+						"damage": 922414,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968303746,
+						"damage": 3964,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968304156,
+						"damage": 3729,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968304554,
+						"damage": 3893,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A40330",
+						"type": 1,
+						"Time": 1614968304819,
+						"damage": 1249104,
+						"crit": true,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968304974,
+						"damage": 3710,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968305383,
+						"damage": 11421,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968305499,
+						"damage": 78286,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968305614,
+						"damage": 27046,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968305706,
+						"damage": 27728,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968305786,
+						"damage": 3856,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968305851,
+						"damage": 79178,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968306196,
+						"damage": 4015,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968306256,
+						"damage": 27642,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968306348,
+						"damage": 25812,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968306610,
+						"damage": 378609,
+						"crit": true,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968306630,
+						"damage": 10514,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968307021,
+						"damage": 73884,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968307033,
+						"damage": 10920,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968307334,
+						"damage": 358134,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968307440,
+						"damage": 4380,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A40320",
+						"type": 1,
+						"Time": 1614968307733,
+						"damage": 171900,
+						"crit": false,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968307763,
+						"damage": 1280726,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968307847,
+						"damage": 4459,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968308266,
+						"damage": 4359,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968308675,
+						"damage": 4370,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230134",
+						"type": 1,
+						"Time": 1614968308863,
+						"damage": 14774015,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968309075,
+						"damage": 12060,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968309472,
+						"damage": 4333,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A130120",
+						"type": 1,
+						"Time": 1614968309492,
+						"damage": 51232,
+						"crit": false,
+						"name": "Смена мест"
+					},
+					{
+						"skillId": "A120200",
+						"type": 1,
+						"Time": 1614968312514,
+						"damage": 1231492,
+						"crit": true,
+						"name": "Призрачный шквал II"
+					},
+					{
+						"skillId": "A100230",
+						"type": 1,
+						"Time": 1614968313601,
+						"damage": 122919,
+						"crit": false,
+						"name": "Удар маятника II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968314338,
+						"damage": 55008,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968314500,
+						"damage": 303830,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968314632,
+						"damage": 104582,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968314706,
+						"damage": 111062,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968314818,
+						"damage": 102689,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968315503,
+						"damage": 284534,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968315988,
+						"damage": 82282,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968316360,
+						"damage": 795413,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968316882,
+						"damage": 85583,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968317269,
+						"damage": 287269,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968317721,
+						"damage": 350492,
+						"crit": true,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A40330",
+						"type": 1,
+						"Time": 1614968318801,
+						"damage": 647023,
+						"crit": false,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968319486,
+						"damage": 30576,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968319621,
+						"damage": 87088,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968319690,
+						"damage": 28934,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968319826,
+						"damage": 28676,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968320252,
+						"damage": 31143,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968320323,
+						"damage": 30274,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968320464,
+						"damage": 29973,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968320556,
+						"damage": 29501,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968320999,
+						"damage": 139405,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968321361,
+						"damage": 442196,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A40320",
+						"type": 1,
+						"Time": 1614968321735,
+						"damage": 641280,
+						"crit": true,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968321935,
+						"damage": 136934,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968322303,
+						"damage": 460266,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968322872,
+						"damage": 136742,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968323337,
+						"damage": 76529,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A100200",
+						"type": 1,
+						"Time": 1614968324138,
+						"damage": 114253,
+						"crit": false,
+						"name": "Удар маятника II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968324760,
+						"damage": 54701,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968324913,
+						"damage": 297262,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968325034,
+						"damage": 300147,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968325166,
+						"damage": 102693,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968325258,
+						"damage": 305168,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968325362,
+						"damage": 107640,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968325427,
+						"damage": 51618,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968325863,
+						"damage": 28942,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968325949,
+						"damage": 30403,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968326070,
+						"damage": 85284,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968326208,
+						"damage": 31120,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A90100",
+						"type": 1,
+						"Time": 1614968327376,
+						"damage": 267105,
+						"crit": true,
+						"name": "Безжалостный удар"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968327864,
+						"damage": 133405,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968328601,
+						"damage": 398173,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968328973,
+						"damage": 447128,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230100",
+						"type": 1,
+						"Time": 1614968329902,
+						"damage": 65546,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230131",
+						"type": 1,
+						"Time": 1614968330572,
+						"damage": 625488,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968330639,
+						"damage": 116743,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968330681,
+						"damage": 12070,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968331086,
+						"damage": 12398,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968331493,
+						"damage": 12694,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230131",
+						"type": 1,
+						"Time": 1614968331527,
+						"damage": 638897,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968331885,
+						"damage": 11639,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968332288,
+						"damage": 4217,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A120200",
+						"type": 1,
+						"Time": 1614968332618,
+						"damage": 515479,
+						"crit": false,
+						"name": "Призрачный шквал II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968332725,
+						"damage": 4220,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968333123,
+						"damage": 12298,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968333525,
+						"damage": 12274,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A100200",
+						"type": 1,
+						"Time": 1614968333786,
+						"damage": 349655,
+						"crit": true,
+						"name": "Удар маятника II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968333964,
+						"damage": 4307,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968334357,
+						"damage": 4300,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968334423,
+						"damage": 153211,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968334618,
+						"damage": 299247,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968334691,
+						"damage": 311463,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968334782,
+						"damage": 11795,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968334802,
+						"damage": 105506,
+						"crit": false,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A80230",
+						"type": 1,
+						"Time": 1614968334914,
+						"damage": 314437,
+						"crit": true,
+						"name": "Пила II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968335201,
+						"damage": 11656,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968335206,
+						"damage": 236448,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968335585,
+						"damage": 118544,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968335596,
+						"damage": 4485,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A30330",
+						"type": 1,
+						"Time": 1614968335991,
+						"damage": 63804,
+						"crit": false,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968336003,
+						"damage": 4234,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968336444,
+						"damage": 4345,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968336869,
+						"damage": 4320,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A40330",
+						"type": 1,
+						"Time": 1614968337115,
+						"damage": 2235633,
+						"crit": true,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968337248,
+						"damage": 4227,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968337692,
+						"damage": 4451,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968337843,
+						"damage": 81526,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968337892,
+						"damage": 81928,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968338000,
+						"damage": 28735,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968338093,
+						"damage": 4403,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60230",
+						"type": 1,
+						"Time": 1614968338125,
+						"damage": 28923,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968338500,
+						"damage": 12302,
+						"crit": true,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968338597,
+						"damage": 81689,
+						"crit": true,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968338655,
+						"damage": 29975,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968338750,
+						"damage": 28510,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A60231",
+						"type": 1,
+						"Time": 1614968338889,
+						"damage": 30791,
+						"crit": false,
+						"name": "Спираль смерти II"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968338939,
+						"damage": 4134,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968339358,
+						"damage": 4269,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A30300",
+						"type": 1,
+						"Time": 1614968339514,
+						"damage": 366292,
+						"crit": true,
+						"name": "Двойной разрез III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968339798,
+						"damage": 4475,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A40320",
+						"type": 1,
+						"Time": 1614968340039,
+						"damage": 756727,
+						"crit": true,
+						"name": "Разделяющий удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968340169,
+						"damage": 4209,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968340279,
+						"damage": 381499,
+						"crit": true,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968340569,
+						"damage": 4117,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A50330",
+						"type": 1,
+						"Time": 1614968340684,
+						"damage": 437664,
+						"crit": false,
+						"name": "Свирепый удар III"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968340967,
+						"damage": 4481,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230132",
+						"type": 1,
+						"Time": 1614968341396,
+						"damage": 4296,
+						"crit": false,
+						"name": "Смирительные цепи"
+					},
+					{
+						"skillId": "A230134",
+						"type": 1,
+						"Time": 1614968341602,
+						"damage": 15653020,
+						"crit": true,
+						"name": "Смирительные цепи"
+					}
+				]
+			}
+		}
+	},
+	{
+		"gameId": "140737671856209",
+		"playerId": 117,
+		"serverId": 2800,
+		"templateId": 11009,
+		"name": "16Bit",
+		"class": 8,
+		"Targets": {}
+	}
+]

@@ -1,0 +1,425 @@
+    [		  
+		{
+            "dg": ["dkelsa"],
+            "name": "Логово Бессмертного Келсаика",
+            "ilvl":"480",
+            "coins":"250",
+            "quest": 2169,
+            "instance": 3026,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["kelsa"],
+            "name": "Логово Келсаика",
+            "ilvl":"461",
+            "coins":"220",
+            "quest": 2169,
+            "instance": 3026,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["ab", "dab"],
+            "name": "Арена Безумия",
+            "ilvl":"461",
+            "coins":"220",
+            "quest": 2169,
+            "instance": 3026,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["spkb", "dspkb"],
+            "name": "Секретное подземелье крепости Берарк",
+            "ilvl":"458",
+            "coins":"325",
+            "quest": 2168,
+            "instance": 3023,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["gsp", "dgsp"],
+            "name": "Гнездо сверкающей Паркин",
+            "ilvl":"457",
+            "coins":"370",
+            "quest": 2167,
+            "instance": 3201,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["sb", "dsb"],
+            "name": "Святилище Бахаара",
+            "ilvl":"456",
+            "coins":"295",
+            "quest": 2162,
+            "instance": 9044,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["lbh", "dlbh"],
+            "name": "****Лаборатория Берна (сложно)",
+            "ilvl":"456",
+            "coins":"330~Отключен",
+            "quest": 2125,
+            "instance": 9067,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["zml", "dzml"],
+            "name": "Заброшенная мастерская Леандра",
+            "ilvl":"455",
+            "coins":"190",
+            "quest": 2161,
+            "instance": 9982,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["oba", "doba"],
+            "name": "Омут Бездушного Антароса",
+            "ilvl":"454",
+            "coins":"145",
+            "quest": 2157,
+            "instance": 9920,
+            "color": "#d11141"
+        },
+		{
+            "dg": ["gp", "dgp"],
+            "name": "****Гнездо Паркин",
+            "ilvl":"453",
+            "coins":"245~Отключен",
+            "quest": 2166,
+            "instance": 3101,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["imh", "dimh"],
+            "name": "****Остров Мертвых (сложно)",
+            "ilvl":"453",
+            "coins":"150~Отключен",
+            "quest": 1666,
+            "instance": 9059,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["lb", "dlb"],
+            "name": "****Лаборатория Берна",
+            "ilvl":"453",
+            "coins":"220~Отключен",
+            "quest": 2124,
+            "instance": 9767,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["asrk9", "dasrk9"],
+            "name": "****Ангар совершенного RK-9",
+            "ilvl":"453",
+            "coins":"145~Отключен",
+            "quest": 2153,
+            "instance": 9935,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["rka", "drka"],
+            "name": "****Руины Кошмарной Абнукты",
+            "ilvl":"451",
+            "coins":"126~Отключен",
+            "quest": 2138,
+            "instance": 9970,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["rsv", "drsv"],
+            "name": "****Разрушенное Святилище Велики",
+            "ilvl":"450",
+            "coins":"125~Отключен",
+            "quest": 2143,
+            "instance": 9981,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["oa", "doa"],
+            "name": "****Омут Антароса",
+            "ilvl":"445",
+            "coins":"100~Отключен",
+            "quest": 2156,
+            "instance": 9720,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["ml", "dml"],
+            "name": "****Мастерская Леандра",
+            "ilvl":"444",
+            "coins":"100~Отключен",
+            "quest": 2160,
+            "instance": 9782,
+            "color": "#f37735"
+        },
+		{
+            "dg": ["cv", "dcv"],
+            "name": "Святилище Велики",
+            "ilvl":"443",
+            "coins":"90",
+            "quest": 2142,
+            "instance": 9781,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["ark9", "dark9"],
+            "name": "Ангар RK-9",
+            "ilvl":"442",
+            "coins":"90",
+            "quest": 2152,
+            "instance": 9735,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["ra", "dra"],
+            "name": "****Руины Абнукты",
+            "ilvl":"441",
+            "coins":"90~Отключен",
+            "quest": 2137,
+            "instance": 9770,
+            "color": "#ffc425"
+        },
+		{
+            "dg": ["mk", "dmk"],
+            "name": "Мясницкие Катакомбы",
+            "ilvl":"440",
+            "coins":"285",
+            "quest": 2101,
+            "instance": 9809,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["im", "dim"],
+            "name": "****Остров Мертвых",
+            "ilvl":"438",
+            "coins":"75~Отключен",
+            "quest": 1667,
+            "instance": 9759,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["ud", "dud"],
+            "name": "****Убежище Дуриона",
+            "ilvl":"437",
+            "coins":"80~Отключен",
+            "quest": 2126,
+            "instance": 9768,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["kt", "dkt"],
+            "name": "*****Крепость Тенебриса",
+            "ilvl":"436",
+            "coins":"80~Отключен",
+            "quest": 2158,
+            "instance": 9783,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["lp", "dlp"],
+            "name": "Лагерь повстанцев",
+            "ilvl":"435",
+            "coins":"80",
+            "quest": 2154,
+            "instance": 9739,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["zl", "dzl"],
+            "name": "*****Замок Лилит",
+            "ilvl":"431",
+            "coins":"70~Отключен",
+            "quest": 2133,
+            "instance": 9769,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["kv", "dkv"],
+            "name": "Вход в катакомбы Велики",
+            "ilvl":"431",
+            "coins":"70",
+            "quest": 2140,
+            "instance": 9780,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["ls", "dls"],
+            "name": "****Лаборатория Сайрекса",
+            "ilvl":"431",
+            "coins":"70~Отключен",
+            "quest": 2147,
+            "instance": 9794,
+            "color": "#00aedb"
+        },
+		{
+            "dg": ["au", "dau"],
+            "name": "****Алчное Ущелье (3 игрока)",
+            "ilvl":"412",
+            "coins":"60~Отключен",
+            "quest": 2150,
+            "instance": 9055,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["k", "dk"],
+            "name": "****Каналы",
+            "ilvl":"412",
+            "coins":"60~Отключен",
+            "quest": 2109,
+            "instance": 9777,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["om", "dom"],
+            "name": "Обитель Манайи",
+            "ilvl":"309",
+            "coins":"40",
+            "quest": 1102,
+            "instance": 9727,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["az", "daz"],
+            "name": "Аргонские Залы",
+            "ilvl":"242",
+            "coins":"40",
+            "quest": 1103,
+            "instance": 9026,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["hb", "dhb"],
+            "name": "Храм Балдера",
+            "ilvl":"242",
+            "coins":"40",
+            "quest": 1101,
+            "instance": 9025,
+            "color": "#00b159"
+        },
+		{
+            "dg": ["eb", "deb"],
+            "name": "Эбеновая Башня",
+            "ilvl":"200",
+            "coins":"?",
+            "quest": 800010,
+            "instance": 9073,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["lu", "dlu"],
+            "name": "Лабиринт Ужаса",
+            "ilvl":"200",
+            "coins":"?",
+            "quest": 800009,
+            "instance": 9076,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["nss", "dnss"],
+            "name": "Небесный сад Салерона",
+            "ilvl":"166",
+            "coins":"?",
+            "quest": 800008,
+            "instance": 9094,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["ua", "dua"],
+            "name": "Убежище Акаши",
+            "ilvl":"146",
+            "coins":"?",
+            "quest": 800007,
+            "instance": 9093,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["gl", "dgl"],
+            "name": "Золотой Лабиринт",
+            "ilvl":"146",
+            "coins":"?",
+            "quest": 800006,
+            "instance": 9072,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["gn", "dgn"],
+            "name": "Гробница Некроманта",
+            "ilvl":"118",
+            "coins":"?",
+            "quest": 800005,
+            "instance": 9071,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["uk", "duk"],
+            "name": "Убежище Культистов",
+            "ilvl":"96",
+            "coins":"40",
+            "quest": 800004,
+            "instance": 9089,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["lg", "dlg"],
+            "name": "Логово Сараваша",
+            "ilvl":"77",
+            "coins":"?",
+            "quest": 800003,
+            "instance": 9979,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["jjjjj", "fff"],
+            "name": "Зловещий Особняк",
+            "ilvl":"66",
+            "coins":"?",
+            "quest": 800002,
+            "instance": 9088,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["b", "bol"],
+            "name": "Бастион Лока",
+            "ilvl":"48",
+            "coins":"0",
+            "quest": 800001,
+            "instance": 9087,
+            "color": "#00FF00"
+        },
+		{
+            "dg": ["zlpi", "dzlpi"],
+            "name": "Золотой Лабиринт (подземелье испытаний)",
+            "ilvl":"446",
+            "coins":"90",
+            "quest": 90321,
+            "instance": 9032,
+            "color": "#FFFF00"
+        },
+		{
+            "dg": ["uapi", "duapi"],
+            "name": "Убежище Акаши (подземелье испытаний)",
+            "ilvl":"439",
+            "coins":"80",
+            "quest": 90311,
+            "instance": 9031,
+            "color": "#FFFF00"
+        },
+		{
+            "dg": ["zlpi", "dzlpi"],
+            "name": "Замок Лилит (подземелье испытаний)",
+            "ilvl":"431",
+            "coins":"70",
+            "quest": 90331,
+            "instance": 3016,
+            "color": "#FFFF00"
+        },
+				{
+            "dg": ["ap", "dap"],
+            "name": "Академия Петрэ",
+            "ilvl":"439",
+            "coins":"80",
+            "quest": 98321,
+            "instance": 9126,
+            "color": "#00FFFF"
+        }
+    ]		

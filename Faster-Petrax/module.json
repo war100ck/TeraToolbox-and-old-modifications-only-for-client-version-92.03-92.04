@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": true,
+    "disabled": false,
+    "name": "Fast-Solo-Petrax",
+    "author": "war100ck",
+    "description": "Телепортирует Вас прямо к Боссу, минуя ступеньки.",
+    "version": "v92.04",
+    "supportUrl": "",
+    "servers": [""],
+    "options": {
+        "niceName": "Fast-Solo-Petrax (Быстрое прохождение Академии Петрэ.)",
+        "guiName": "Fast-Solo-Petrax (Быстрое прохождение Академии Петрэ.)",
+        "reloadable": false
+    },
+    "dependencies": {},
+    "conflicts": []
+}

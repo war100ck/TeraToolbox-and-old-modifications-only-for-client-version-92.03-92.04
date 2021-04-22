@@ -1,0 +1,12 @@
+{
+    "name": "Cmd-Slash",
+    "options": {
+        "niceName": "快捷命令",
+        "guiName": "快捷命令(Cmd-Slash)"
+    },
+    "author": "ZC / seraphinush-gaming",
+    "description": "用命令执行一些便捷的游戏操作",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Cmd-Slash/master/"],
+    "supportUrl": "https://github.com/tera-mod/Cmd-Slash/issues",
+    "version": "87.05"
+}

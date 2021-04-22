@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": -2,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Доминолит 5.02M/s 25.1M 00:05</font>",
+		"battleDuration": 5791,
+		"battleendtime": 1613035368435,
+		"totalPartyDamage": 25109745,
+		"huntingZoneId": 713,
+		"templateId": 81399
+	},
+	{
+		"gameId": "140737671856470",
+		"name": "war100ck",
+		"class": 9,
+		"serverId": 2800,
+		"totalDamage": 25109745,
+		"dps": 4335994,
+		"percentage": 100,
+		"crit": 93,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Разрывной снаряд VIII</font></td><td>0<br>0</td><td class=\"critClr\">7.13M<br>3.56M</td><td class=\"totalClr\">7.13M<br>3.56M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч</font></td><td>0<br>0</td><td class=\"critClr\">5.3M<br>5.3M</td><td class=\"totalClr\">5.3M<br>5.3M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Залп картечью XI</font></td><td>0<br>0</td><td class=\"critClr\">4.85M<br>1.21M</td><td class=\"totalClr\">4.85M<br>1.21M</td><td class=\"perClr\">100%<br>4/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мана-ракеты X</font></td><td>0<br>0</td><td class=\"critClr\">4.6M<br>1.15M</td><td class=\"totalClr\">4.6M<br>1.15M</td><td class=\"perClr\">100%<br>4/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">undefined</font></td><td>0<br>0</td><td class=\"critClr\">1.92M<br>963.K</td><td class=\"totalClr\">1.92M<br>963.K</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Рассекающий луч_Часовая бомба</font></td><td>0<br>0</td><td class=\"critClr\">884.K<br>884.K</td><td class=\"totalClr\">884.K<br>884.K</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Граната IX</font></td><td>404.K<br>404.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">404.K<br>404.K</td><td class=\"perClr\">0%<br>0/1</td></tr></table>"
+	}
+]

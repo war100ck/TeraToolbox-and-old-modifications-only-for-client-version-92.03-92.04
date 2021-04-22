@@ -1,0 +1,15 @@
+{
+    "name": "Camera-Control",
+    "options": {
+        "niceName": "镜头视距",
+        "guiName": "镜头视距(Camera-Control)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC / teralove",
+    "description": "自定义镜头视距",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Camera-Control/master/"],
+    "supportUrl": "https://github.com/tera-mod/Camera-Control/issues",
+    "version": "87.05"
+}

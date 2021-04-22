@@ -1,0 +1,6 @@
+{
+	"enabled": true,
+	"back": true,
+	"teleportDistance": 275,
+	"teleportDelay": 1000
+}

@@ -1,0 +1,21 @@
+{
+    "files": {
+        "index.js": "520755f53a8636a6483430761f3a7de2b667d952d8056b5fcd813e712f7871ed",
+        "settings_migrator.js": "4a65666d273589052c341173c1670ca034dabb2e1d3cb28260fe190a2c1c1f62",
+        "module.json": "70426e7a1ab229c10c315e870fd40f1b786324267b368938ba86b7daedf816d1",
+        "LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+        "README.md": "c88bf8c5751c58167d5ba4a0381ee55fd790abc812fde42483c181724ca2dd1d"
+    },
+    "defs": {
+        "S_LOGIN": "event",
+        "S_REPLY_CLIENT_CHAT_OPTION_SETTING": "event",
+        "S_LOAD_CLIENT_USER_SETTING": "event",
+        "S_JOIN_PRIVATE_CHANNEL": 2,
+        "C_LEAVE_PRIVATE_CHANNEL": 1,
+        "C_REQUEST_PRIVATE_CHANNEL_INFO": 2,
+        "S_REQUEST_PRIVATE_CHANNEL_INFO": 2,
+        "C_CHAT": 1,
+        "C_WHISPER": 1,
+        "S_PRIVATE_CHAT": 1
+    }
+}

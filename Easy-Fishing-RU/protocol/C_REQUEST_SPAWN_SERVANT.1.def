@@ -1,0 +1,4 @@
+# majorPatchVersion >= 85
+
+uint32 id   # see S_REQUEST_SERVANT_INFO_LIST
+uint64 dbid # see S_REQUEST_SERVANT_INFO_LIST

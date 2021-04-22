@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Fast Solo Dungeons",
+    "author": "Shalltearz & PsykoDev / tr. RU WAR100CK",
+    "description": "Быстрое прохождение соло испытаний, автосброс, телепортация к складу в Велике.",
+    "version": "RU v92.04",
+    "options": {
+        "niceName": "Fast Solo Dungeons (Быстрое прохождение соло испытаний.)",
+        "guiName": "Fast Solo Dungeons (Быстрое прохождение соло испытаний.)",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Fast-Solo-Dungeons/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Fast-Solo-Dungeons/issues"
+}

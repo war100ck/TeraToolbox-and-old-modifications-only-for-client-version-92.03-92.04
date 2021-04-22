@@ -1,0 +1,8 @@
+# majorPatchVersion >= 85
+
+uint64 gameId
+uint32 contract
+uint32 item
+int32  amount
+int32  pocket
+uint32 slot #inventory slot

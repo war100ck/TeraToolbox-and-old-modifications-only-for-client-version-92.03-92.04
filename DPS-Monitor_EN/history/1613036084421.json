@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баньякас 1.18M/s 32M 00:27</font>",
+		"battleDuration": 27851,
+		"battleendtime": 1613036084312,
+		"totalPartyDamage": 32099347,
+		"huntingZoneId": 713,
+		"templateId": 81301
+	},
+	{
+		"gameId": "140737671856476",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 32099347,
+		"dps": 1152538,
+		"percentage": 100,
+		"crit": 70,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный удар сверху X (защита)</font></td><td>2.28M<br>253.K</td><td class=\"critClr\">6.93M<br>1.73M</td><td class=\"totalClr\">9.21M<br>709.K</td><td class=\"perClr\">30%<br>4/13</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный бросок II (защита)</font></td><td>0<br>0</td><td class=\"critClr\">7.6M<br>7.6M</td><td class=\"totalClr\">7.6M<br>7.6M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия взрывных ударов X</font></td><td>0<br>0</td><td class=\"critClr\">4.55M<br>569.K</td><td class=\"totalClr\">4.55M<br>569.K</td><td class=\"perClr\">100%<br>8/8</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>0<br>0</td><td class=\"critClr\">3.22M<br>807.K</td><td class=\"totalClr\">3.22M<br>807.K</td><td class=\"perClr\">100%<br>4/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">2.94M<br>2.94M</td><td class=\"totalClr\">2.94M<br>2.94M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">2.91M<br>1.45M</td><td class=\"totalClr\">2.91M<br>1.45M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар в воздухе XI</font></td><td>0<br>0</td><td class=\"critClr\">1.63M<br>1.63M</td><td class=\"totalClr\">1.63M<br>1.63M</td><td class=\"perClr\">100%<br>1/1</td></tr></table>"
+	}
+]

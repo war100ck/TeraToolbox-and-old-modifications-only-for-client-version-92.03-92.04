@@ -1,0 +1,15 @@
+{
+    "name": "Box-Opener",
+    "options": {
+        "niceName": "Box-Opener",
+        "guiName": "Box-Opener(自动开盒)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 2
+    },
+    "author": "ZC / Owyn",
+    "description": "自动开盒 / 道具连点 脚本",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Box-Opener/master/"],
+    "supportUrl": "https://github.com/tera-mod/Box-Opener/issues",
+    "version": "92.04"
+}

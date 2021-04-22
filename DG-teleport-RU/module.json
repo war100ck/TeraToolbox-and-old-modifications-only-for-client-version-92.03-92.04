@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "DG-Teleport-RU",
+    "options": {
+        "niceName": "DG-Teleport-RU",
+        "guiName": "DG-Teleport-RU"
+    },
+    "author": "edu, PsykoDev, translation RU: war100ck",
+    "description": "Быстрая телепортация к входу подземелья",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/DG-teleport-RU/"],
+    "version": "91.4"
+}

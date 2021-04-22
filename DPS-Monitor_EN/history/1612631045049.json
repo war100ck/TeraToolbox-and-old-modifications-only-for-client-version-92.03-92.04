@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баньякас 1.33M/s 31.9M 00:24</font>",
+		"battleDuration": 24532,
+		"battleendtime": 1612631045004,
+		"totalPartyDamage": 31983538,
+		"huntingZoneId": 713,
+		"templateId": 81301
+	},
+	{
+		"gameId": "140737671856295",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 31983538,
+		"dps": 1303747,
+		"percentage": 100,
+		"crit": 83,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Ураганная серия</font></td><td>0<br>0</td><td class=\"critClr\">10.8M<br>1.2M</td><td class=\"totalClr\">10.8M<br>1.2M</td><td class=\"perClr\">100%<br>9/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный удар сверху X (защита)</font></td><td>1.45M<br>290.K</td><td class=\"critClr\">6.38M<br>798.K</td><td class=\"totalClr\">7.84M<br>603.K</td><td class=\"perClr\">61%<br>8/13</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар о землю XI (защита)</font></td><td>0<br>0</td><td class=\"critClr\">4.75M<br>1.58M</td><td class=\"totalClr\">4.75M<br>1.58M</td><td class=\"perClr\">100%<br>3/3</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">4.69M<br>4.69M</td><td class=\"totalClr\">4.69M<br>4.69M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>0<br>0</td><td class=\"critClr\">3.86M<br>965.K</td><td class=\"totalClr\">3.86M<br>965.K</td><td class=\"perClr\">100%<br>4/4</td></tr></table>"
+	}
+]

@@ -1,0 +1,61 @@
+<html>
+<head>
+	<title> TDM </title>
+	<link rel="stylesheet" href="main.css"/>
+	<script src='./main.js'></script>
+</head>
+<body>
+	<div class="tab">
+      <button class="tablinks active" onMouseDown="clickSound.play()" onClick="openTab(event,'wrapper')">Data</button>
+      <button class="tablinks" onMouseDown="clickSound.play()" onClick="openTab(event,'records')">Rec</button>
+      <button class="tablinks" onMouseDown="clickSound.play()" onClick="openTab(event,'settings')">Setting</button>
+      <button class="tablinks" onMouseDown="clickSound.play()" onClick="ExtUI()">ExtBrowser</button>
+      <button class="tablinks" onMouseDown="clickSound.play()" onClick="NoPopUp()">HidePanel</button>
+	</div>
+
+	<div id="wrapper" class="tabcontent">
+		<div id="content"></div>
+		<div id="skillLog"></div>
+
+		<button class=btn onMouseDown="clickSound.play()" onClick="ToParty()">ToParty</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="ToGuild()">ToGuild</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="HideNames()">HideNames</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="Whisper()">Whisper</button>
+		<input class=ipt type="text" size="1" id="name" value="">
+		<br>
+		<button class=btn onMouseDown="clickSound.play()" onClick="openTab(event,'manager')">ModsManager</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="openTab(event,'custom')">Command</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="LeaveParty()">Exit Party</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="Reset()">Reset</button>
+		<button class=btn onMouseDown="clickSound.play()" onClick="useBrowser('http://tera.dvcoa.com.au:3000')">Leader</button>
+	</div>
+
+	<div id="custom" class="tabcontent"></div>
+	<div id="manager" class="tabcontent"></div>
+	<div id="settings" class="tabcontent">
+		<table>
+			<tr>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="Notice()"><i>Notice</i></button></td><td><p id="Notice"></p></td>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="NoticeDamageAdd()"><i>NoticeValue</i></button></td><td><p id="NoticeDamageAdd"></p></td>
+			</tr>
+			<tr>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="BossOnly()"><i>OnlyBoss</i></button></td><td><p id="BossOnly"></p></td>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="HideNames()"><i>HideNick</i></button></td><td><p id="HideNames"></p></td>
+			</tr>
+			<tr>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="SkillLog()"><i>SkillLog</i></button></td><td><p id="SkillLog"></p></td>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="RankSystem()"><i>RankSystem</i></button></td><td><p id="RankSystem"></p></td>
+			</tr>
+			<tr>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="AllUsers()"><i>AllUsers</i></button></td><td><p id="AllUsers"></p></td>
+				<td><button class=btn onMouseDown="clickSound.play()" onClick="Debug()"><i>Debug</i></button></td><td><p id="Debug"></p></td>
+			</tr>
+		</table>
+		<br>
+		<p id="version"></p>
+		<br>
+		<textarea id="debug" maxLength="2000" rows="14" cols="50" style="background-color: #2E3440;"></textarea>
+		<br>
+	</div>
+</body>
+</html>

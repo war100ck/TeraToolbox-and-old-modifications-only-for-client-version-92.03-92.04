@@ -1,0 +1,20 @@
+{
+    "files": {
+        "index.js": "4842d4ec121ef17c4d5ea0eee7169d5a5c94626ede19416b39305ea0440b6c2b",
+        "module.json": "b8330db6340ce48287eb58187d58e282e9399a838c80cf2ece20489115830aa8",
+        "lib/chat-sanitizer.js": "0117ffca404691539dbe041bfe9bc51b00aafa55d87f8053728231864491de72",
+        "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
+        "lib/private-channel-fix.js": "4c2f81520db86f0398e8b92523f2608cbd21193344319470c93190e816c47295"
+    },
+    "defs": {
+        "S_CHAT": 3,
+        "S_WHISPER": 3,
+        "S_PRIVATE_CHAT": 1,
+
+        "C_PLAYER_LOCATION": 5,
+        
+        "S_LOGIN": "event",
+        "S_JOIN_PRIVATE_CHANNEL": "raw",
+        "S_REPLY_CLIENT_CHAT_OPTION_SETTING": "event"
+    }
+}

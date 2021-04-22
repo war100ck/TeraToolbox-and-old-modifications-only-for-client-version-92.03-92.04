@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баньякас 1.7M/s 30.6M 00:18</font>",
+		"battleDuration": 18373,
+		"battleendtime": 1614955611578,
+		"totalPartyDamage": 30641627,
+		"huntingZoneId": 713,
+		"templateId": 81301
+	},
+	{
+		"gameId": "140737671856202",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 30641627,
+		"dps": 1667753,
+		"percentage": 100,
+		"crit": 76,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный бросок II (защита)</font></td><td>0<br>0</td><td class=\"critClr\">15.1M<br>7.56M</td><td class=\"totalClr\">15.1M<br>7.56M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия взрывных ударов X</font></td><td>1.14M<br>382.K</td><td class=\"critClr\">5.08M<br>1.01M</td><td class=\"totalClr\">6.22M<br>778.K</td><td class=\"perClr\">62%<br>5/8</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">5.27M<br>2.63M</td><td class=\"totalClr\">5.27M<br>2.63M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Стальной кулак</font></td><td>0<br>0</td><td class=\"critClr\">4M<br>4M</td><td class=\"totalClr\">4M<br>4M</td><td class=\"perClr\">100%<br>1/1</td></tr></table>"
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": -6,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Слабый Петрэ 1.44M/s 66.6M 00:46</font>",
+		"battleDuration": 46284,
+		"battleendtime": 1614956208760,
+		"totalPartyDamage": 66610695,
+		"huntingZoneId": 126,
+		"templateId": 1071
+	},
+	{
+		"gameId": "140737671856202",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 66610695,
+		"dps": 1439173,
+		"percentage": 100,
+		"crit": 70,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">14.9M<br>3.73M</td><td class=\"totalClr\">14.9M<br>3.73M</td><td class=\"perClr\">100%<br>4/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>144.K<br>144.K</td><td class=\"critClr\">13.5M<br>903.K</td><td class=\"totalClr\">13.7M<br>856.K</td><td class=\"perClr\">93%<br>15/16</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный удар сверху X (защита)</font></td><td>5.77M<br>385.K</td><td class=\"critClr\">7.49M<br>832.K</td><td class=\"totalClr\">13.2M<br>552.K</td><td class=\"perClr\">37%<br>9/24</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия взрывных ударов X</font></td><td>474.K<br>158.K</td><td class=\"critClr\">5.44M<br>418.K</td><td class=\"totalClr\">5.92M<br>370.K</td><td class=\"perClr\">81%<br>13/16</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар о землю XI (защита)</font></td><td>279.K<br>279.K</td><td class=\"critClr\">5.22M<br>1.3M</td><td class=\"totalClr\">5.5M<br>1.1M</td><td class=\"perClr\">80%<br>4/5</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный бросок II (защита)</font></td><td>0<br>0</td><td class=\"critClr\">5.07M<br>5.07M</td><td class=\"totalClr\">5.07M<br>5.07M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Стальной кулак</font></td><td>0<br>0</td><td class=\"critClr\">4.26M<br>2.13M</td><td class=\"totalClr\">4.26M<br>2.13M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">2.2M<br>1.1M</td><td class=\"totalClr\">2.2M<br>1.1M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар в воздухе XI</font></td><td>443.K<br>443.K</td><td class=\"critClr\">1.29M<br>1.29M</td><td class=\"totalClr\">1.73M<br>867.K</td><td class=\"perClr\">50%<br>1/2</td></tr></table>"
+	}
+]

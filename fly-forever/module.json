@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "fly-forever",
+    "options": {
+        "niceName": "Fly-Forever (Полеты без лимита энергии)",
+        "guiName": "Fly-Forever (Полеты без лимита энергии)"
+    },
+    "author": "PsykoDev",
+    "description": "Бесконечный полет куда угодно без лимита энергии + без урона от падения",
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/fly-forever/master/"],
+    "supportUrl": "https://github.com/PsykoDev/fly-forever/blob/master/README.md",
+    "version": "v92.04"
+}

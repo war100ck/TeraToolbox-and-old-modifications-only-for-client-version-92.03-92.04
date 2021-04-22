@@ -1,0 +1,13 @@
+{
+    "name": "command",
+    "author": "Caali",
+    "description": "Add ingame chat commands to your mod.",
+    "version": "1.1",
+    "options": {
+        "niceName": "Command",
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/tera-toolbox/command/master/"]
+}

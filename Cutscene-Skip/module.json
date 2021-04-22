@@ -1,0 +1,12 @@
+{
+    "name": "Cutscene-Skip",
+    "options": {
+        "niceName": "Cutscene-Skip",
+        "guiName": "Cutscene-Skip (Пропуск Cutscene)"
+    },
+    "author": "ZC / meishuu",
+    "description": "Автопропуск видеороликов (Cutscene), не нужно нажимать Esc",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Cutscene-Skip/master/"],
+    "supportUrl": "https://github.com/tera-mod/Cutscene-Skip/issues",
+    "version": "v92.04"
+}

@@ -1,0 +1,16 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "popup": true,
+        "leaving_msg": "",
+        "notice": true,
+        "notice_damage": 7000000,
+        "bossOnly": false,
+        "hideNames": false,
+        "skillLog": true,
+        "rankSystem": false,
+        "allUsers": false,
+        "debug": false
+    }
+}

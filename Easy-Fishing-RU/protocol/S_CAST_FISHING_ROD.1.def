@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+uint64 gameId
+byte   unk09
+byte   unk10
+byte   unk11
+byte   unk12
+byte   unk13
+byte   unk14
+byte   unk15
+byte   unk16
+byte   unk17
+byte   unk18
+byte   unk19
+byte   unk20
+byte   unk21
+
+
+
+uint32 fishingRod

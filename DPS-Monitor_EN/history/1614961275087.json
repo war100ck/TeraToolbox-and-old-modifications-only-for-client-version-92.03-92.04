@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": -24,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Слабый Петрэ 1.02M/s 66.6M 01:05</font>",
+		"battleDuration": 65848,
+		"battleendtime": 1614961275049,
+		"totalPartyDamage": 66665104,
+		"huntingZoneId": 126,
+		"templateId": 1071
+	},
+	{
+		"gameId": "140737671856203",
+		"name": "16Bit",
+		"class": 8,
+		"serverId": 2800,
+		"totalDamage": 66665104,
+		"dps": 1012408,
+		"percentage": 100,
+		"crit": 50,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Разделяющий удар III</font></td><td>4.03M<br>1.34M</td><td class=\"critClr\">14.4M<br>2.41M</td><td class=\"totalClr\">18.4M<br>2.05M</td><td class=\"perClr\">66%<br>6/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Свирепый удар III</font></td><td>3.46M<br>495.K</td><td class=\"critClr\">14M<br>1.16M</td><td class=\"totalClr\">17.5M<br>921.K</td><td class=\"perClr\">63%<br>12/19</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный призрачный шквал</font></td><td>0<br>0</td><td class=\"critClr\">7.37M<br>3.68M</td><td class=\"totalClr\">7.37M<br>3.68M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Пила II</font></td><td>1.17M<br>235.K</td><td class=\"critClr\">5.68M<br>710.K</td><td class=\"totalClr\">6.86M<br>527.K</td><td class=\"perClr\">61%<br>8/13</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Искупление кровью</font></td><td>0<br>0</td><td class=\"critClr\">4.89M<br>1.22M</td><td class=\"totalClr\">4.89M<br>1.22M</td><td class=\"perClr\">100%<br>4/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Двойной разрез III</font></td><td>2.35M<br>213.K</td><td class=\"critClr\">1.55M<br>777.K</td><td class=\"totalClr\">3.9M<br>300.K</td><td class=\"perClr\">15%<br>2/13</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Спираль смерти II</font></td><td>988.K<br>61.7K</td><td class=\"critClr\">1.54M<br>172.K</td><td class=\"totalClr\">2.53M<br>101.K</td><td class=\"perClr\">36%<br>9/25</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар маятника II</font></td><td>220.K<br>220.K</td><td class=\"critClr\">2.26M<br>756.K</td><td class=\"totalClr\">2.49M<br>622.K</td><td class=\"perClr\">75%<br>3/4</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Призрачная плеть II</font></td><td>522.K<br>74.6K</td><td class=\"critClr\">1.54M<br>220.K</td><td class=\"totalClr\">2.06M<br>147.K</td><td class=\"perClr\">50%<br>7/14</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Безжалостный удар</font></td><td>270.K<br>135.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">270.K<br>135.K</td><td class=\"perClr\">0%<br>0/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Ответный удар III</font></td><td>254.K<br>254.K</td><td class=\"critClr\">0<br>0</td><td class=\"totalClr\">254.K<br>254.K</td><td class=\"perClr\">0%<br>0/1</td></tr></table>"
+	}
+]

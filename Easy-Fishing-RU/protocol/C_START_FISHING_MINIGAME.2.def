@@ -1,0 +1,4 @@
+# majorPatchVersion >= 88
+
+uint32 counter # times triggered
+uint32 unk

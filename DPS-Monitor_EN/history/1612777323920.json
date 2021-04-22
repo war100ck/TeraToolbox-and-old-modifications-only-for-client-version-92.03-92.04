@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Баньякас 1.14M/s 30.9M 00:27</font>",
+		"battleDuration": 27791,
+		"battleendtime": 1612777323818,
+		"totalPartyDamage": 30906282,
+		"huntingZoneId": 713,
+		"templateId": 81301
+	},
+	{
+		"gameId": "140737671856339",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 30906282,
+		"dps": 1112096,
+		"percentage": 100,
+		"crit": 64,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Ураганная серия</font></td><td>0<br>0</td><td class=\"critClr\">10.7M<br>1.18M</td><td class=\"totalClr\">10.7M<br>1.18M</td><td class=\"perClr\">100%<br>9/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный удар сверху X (защита)</font></td><td>2.42M<br>242.K</td><td class=\"critClr\">3.77M<br>1.25M</td><td class=\"totalClr\">6.19M<br>476.K</td><td class=\"perClr\">23%<br>3/13</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар о землю XI (защита)</font></td><td>0<br>0</td><td class=\"critClr\">4.79M<br>1.59M</td><td class=\"totalClr\">4.79M<br>1.59M</td><td class=\"perClr\">100%<br>3/3</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">4.73M<br>4.73M</td><td class=\"totalClr\">4.73M<br>4.73M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">3.18M<br>1.59M</td><td class=\"totalClr\">3.18M<br>1.59M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>195.K<br>195.K</td><td class=\"critClr\">1.09M<br>545.K</td><td class=\"totalClr\">1.28M<br>428.K</td><td class=\"perClr\">66%<br>2/3</td></tr></table>"
+	}
+]

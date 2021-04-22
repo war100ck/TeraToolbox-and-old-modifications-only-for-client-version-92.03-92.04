@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": -21,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Саккария Потрошительница 1.87M/s 270.M 02:24</font>",
+		"battleDuration": 144176,
+		"battleendtime": 1614956569054,
+		"totalPartyDamage": 270719958,
+		"huntingZoneId": 809,
+		"templateId": 1001
+	},
+	{
+		"gameId": "140737671856202",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 266087456,
+		"dps": 1845573,
+		"percentage": 98,
+		"crit": 79,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия взрывных ударов X</font></td><td>5.91M<br>169.K</td><td class=\"critClr\">46.6M<br>453.K</td><td class=\"totalClr\">52.5M<br>381.K</td><td class=\"perClr\">74%<br>103/138</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>1.59M<br>159.K</td><td class=\"critClr\">47.6M<br>807.K</td><td class=\"totalClr\">49.2M<br>713.K</td><td class=\"perClr\">85%<br>59/69</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">46.3M<br>1.25M</td><td class=\"totalClr\">46.3M<br>1.25M</td><td class=\"perClr\">100%<br>37/37</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">32.3M<br>3.23M</td><td class=\"totalClr\">32.3M<br>3.23M</td><td class=\"perClr\">100%<br>10/10</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Стальной кулак</font></td><td>0<br>0</td><td class=\"critClr\">29.3M<br>2.44M</td><td class=\"totalClr\">29.3M<br>2.44M</td><td class=\"perClr\">100%<br>12/12</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар о землю XI (защита)</font></td><td>0<br>0</td><td class=\"critClr\">21.6M<br>1.14M</td><td class=\"totalClr\">21.6M<br>1.14M</td><td class=\"perClr\">100%<br>19/19</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Яростный удар сверху X (защита)</font></td><td>3.39M<br>212.K</td><td class=\"critClr\">11M<br>921.K</td><td class=\"totalClr\">14.4M<br>516.K</td><td class=\"perClr\">42%<br>12/28</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Удар в воздухе XI</font></td><td>2.62M<br>525.K</td><td class=\"critClr\">6.71M<br>1.11M</td><td class=\"totalClr\">9.34M<br>849.K</td><td class=\"perClr\">54%<br>6/11</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Ураганная серия</font></td><td>0<br>0</td><td class=\"critClr\">7.72M<br>858.K</td><td class=\"totalClr\">7.72M<br>858.K</td><td class=\"perClr\">100%<br>9/9</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия ударов XII</font></td><td>887.K<br>147.K</td><td class=\"critClr\">2.01M<br>402.K</td><td class=\"totalClr\">2.89M<br>263.K</td><td class=\"perClr\">45%<br>5/11</td></tr></table>"
+	}
+]

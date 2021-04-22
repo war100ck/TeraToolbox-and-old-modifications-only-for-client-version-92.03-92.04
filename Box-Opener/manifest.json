@@ -1,0 +1,17 @@
+{
+    "files": {
+        "index.js": "b6e3c5414cd0be51a33ad580fca69401ead4c70db9a0d350844052c9e8a11585",
+        "module.json": "6f9e31a85d8040382714b613a20bdd35602fc8042ff7229ae85857ae86cc9594",
+        "settings_migrator.js": "e0de04985c561ecd316bad07d2ffae08b4c89f7009b68b0a471dd663eb90be9f"
+    },
+    "defs": {
+        "C_DEL_ITEM": 3,
+        "C_GACHA_TRY": 1,
+        "C_PLAYER_LOCATION": 5,
+        "C_USE_ITEM": 3,
+        "S_GACHA_END": 1,
+        "S_GACHA_START": 1,
+        "S_SYSTEM_MESSAGE": 1,
+        "S_SYSTEM_MESSAGE_LOOT_ITEM": 1
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "files": {
+        "index.js": "814e29f364b3cab54a6c94a4debdf1b805e230c2a2fcc76ea7a5d7946f92f380",
+        "module.json": "b9d76a311ae1dad20eab71bdefd98ab6b31031fe6a4de6c9330252a3f1bc4403",
+        "settings_migrator.js": "084e6f814b05c5c3f8f74494416f5dae462c6744ff77d2718150d7f848df2200"
+    },
+    "defs": {
+        "S_DUNGEON_CAMERA_SET": 1,
+        "S_SPAWN_ME": 3
+    }
+}

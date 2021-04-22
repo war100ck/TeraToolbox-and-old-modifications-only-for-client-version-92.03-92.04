@@ -1,0 +1,44 @@
+# majorPatchVersion >= 85 && majorPatchVersion < 88
+
+byte   unk01
+byte   unk02
+byte   unk03
+byte   unk04
+
+uint16 numAbility
+byte   unk07
+byte   unk08
+byte   unk09
+byte   unk10
+
+
+
+
+
+
+
+uint64 dbid
+
+
+
+uint32 type
+
+
+
+uint32 id
+
+
+
+uint32 grade
+byte   unk31
+byte   unk32
+byte   unk33
+byte   unk34
+
+
+
+uint32 energy
+
+
+
+uint32 fellowship

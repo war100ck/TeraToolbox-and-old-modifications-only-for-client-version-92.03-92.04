@@ -1,0 +1,25 @@
+[
+	{
+		"enraged": "",
+		"etimer": 0,
+		"eCountdown": 0,
+		"monsterBattleInfo": "<font color=\"#56B4E9\">Доминолит 2.14M/s 23.5M 00:11</font>",
+		"battleDuration": 11900,
+		"battleendtime": 1613036068383,
+		"totalPartyDamage": 23540435,
+		"huntingZoneId": 713,
+		"templateId": 81399
+	},
+	{
+		"gameId": "140737671856476",
+		"name": "Бамбарбия",
+		"class": 10,
+		"serverId": 2800,
+		"totalDamage": 23540435,
+		"dps": 1978187,
+		"percentage": 100,
+		"crit": 100,
+		"healCrit": 0,
+		"stastics": "<table>\n\t\t\t\t\t<tr class=\"titleClr\">\n\t\t\t\t\t\t<td rowspan=2>Detailed data</td>\n\t\t\t\t\t\t<td>White</td>\n\t\t\t\t\t\t<td>Red</td>\n\t\t\t\t\t\t<td>Total</td>\n\t\t\t\t\t\t<td>Crit</td>\n\t\t\t\t\t</tr><tr class=\"titleClr\">\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Average</td>\n\t\t\t\t\t<td>Red / hop</td>\n\t\t\t\t</tr><tr><td class=\"center\"><font color=\"#E69F00\">Смертельный удар X</font></td><td>0<br>0</td><td class=\"critClr\">6.16M<br>880.K</td><td class=\"totalClr\">6.16M<br>880.K</td><td class=\"perClr\">100%<br>7/7</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Стальной кулак</font></td><td>0<br>0</td><td class=\"critClr\">4.56M<br>2.28M</td><td class=\"totalClr\">4.56M<br>2.28M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Серия взрывных ударов X</font></td><td>0<br>0</td><td class=\"critClr\">3.73M<br>466.K</td><td class=\"totalClr\">3.73M<br>466.K</td><td class=\"perClr\">100%<br>8/8</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Контрудар VIII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">3.14M<br>1.57M</td><td class=\"totalClr\">3.14M<br>1.57M</td><td class=\"perClr\">100%<br>2/2</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Мощный удар IX</font></td><td>0<br>0</td><td class=\"critClr\">2.76M<br>2.76M</td><td class=\"totalClr\">2.76M<br>2.76M</td><td class=\"perClr\">100%<br>1/1</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар о землю XI (защита)</font></td><td>0<br>0</td><td class=\"critClr\">2.72M<br>907.K</td><td class=\"totalClr\">2.72M<br>907.K</td><td class=\"perClr\">100%<br>3/3</td></tr><tr><td class=\"center\"><font color=\"#E69F00\">Сильный удар XII (защита)</font></td><td>0<br>0</td><td class=\"critClr\">446.K<br>446.K</td><td class=\"totalClr\">446.K<br>446.K</td><td class=\"perClr\">100%<br>1/1</td></tr></table>"
+	}
+]
