@@ -1,0 +1,21 @@
+{
+    "version": 1,
+    "data": {
+        "Vanguard": true,
+        "GQuest": true,
+        "GQuestLog": true,
+        "Guardian": true,
+        "Daily": true,
+        "battleground": [
+            102,
+            103,
+            110,
+            111,
+            112,
+            116,
+            117,
+            118,
+            119
+        ]
+    }
+}

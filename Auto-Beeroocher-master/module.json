@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Auto Lein's and Brooch",
+    "author": "KYGAS/others",
+    "description": "Автоиспользование броши во время исользывание навыков.",
+    "options": {
+        "niceName": "Auto Beeroocher",
+        "guiName": "Auto Beerocher (Автоиспользование броши)"
+    },
+    "version": "v92.04",
+    "servers": ["https://raw.githubusercontent.com/KYGAS/Auto-Beeroocher/master/"],
+    "conflicts": ["auto-beer-brooch","auto-beer","auto-brooch"]
+}

@@ -1,0 +1,23 @@
+{
+"6560": {
+"name": "Minor Replenishment Potable",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"cd": 10
+},
+"6561": {
+"name": "Major Replenishment Potable",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"cd": 10
+},
+"6562": {
+"name": "Зелье MP высшего уровня",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"cd": 10
+}
+}

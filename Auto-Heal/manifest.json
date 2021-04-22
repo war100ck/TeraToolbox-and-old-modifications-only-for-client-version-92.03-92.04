@@ -1,0 +1,31 @@
+{
+  "files": {
+    "config.json": {
+        "overwrite": false,
+        "hash": "463d9e4fe4c7c80a73f86318175b5d88111737b78c54146063bf8f7c7631f544"
+    },
+    "index.js": "7b47f45c96b7e444f77a4fcd4cdcb4edc36616146b76eee507c81d02fabf5c30",
+    "module.json": "922ed112654e5180b760abf779496a0e00ea6ef20731a087bca4ed3b7c10073d",
+    "settings_migrator.js": "b0e512fd38e47d4153993a485b4068c8a915a16cc4f9be89285280c73d0f0c7b"
+  },
+  "defs": {
+    "C_CAN_LOCKON_TARGET": 3,
+    "C_PLAYER_LOCATION": 5,
+    "C_START_SKILL": 7,
+    "S_BAN_PARTY_MEMBER": 1,
+    "S_CREST_APPLY": 2,
+    "S_CREST_INFO": 2,
+    "S_DEAD_LOCATION": 2,
+    "S_INSTANT_DASH": 3,
+    "S_LEAVE_PARTY": 1,
+    "S_LEAVE_PARTY_MEMBER": 2,
+    "S_LOGOUT_PARTY_MEMBER": 1,
+    "S_PARTY_MEMBER_CHANGE_HP": 4,    
+    "S_PARTY_MEMBER_LIST": 7,
+    "S_PARTY_MEMBER_STAT_UPDATE": 3,    
+    "S_SPAWN_ME": 3,
+    "S_SPAWN_USER": 15,
+    "S_USER_LOCATION": 5,
+    "S_USER_LOCATION_IN_ACTION": 2
+  }
+}

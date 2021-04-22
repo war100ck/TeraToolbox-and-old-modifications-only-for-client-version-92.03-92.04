@@ -1,0 +1,12 @@
+{
+    "name": "AFKer",
+    "options": {
+        "niceName": "AFKer",
+        "guiName": "AFKer (Позволяет стоять персонажу АФК)"
+    },
+    "author": "ZC / TeraProxy",
+    "description": "Позволяет стоять персонажу АФК и предотвращает быть кикнутым",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/AFKer/master/"],
+    "supportUrl": "https://github.com/tera-mod/AFKer/issues",
+    "version": "v92.04"
+}

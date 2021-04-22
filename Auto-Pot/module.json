@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Auto POT",
+	"author": "Fukki",
+	"description": "Автоматическое использование зелья HP, MP в обычном режиме или при убийстве, настройка модуля в отдельном окне.",
+	"version": "RU v92.04",
+	"options": {
+		"niceName": "Auto POT (Автоматическое использование зелья HP, MP)"
+	},
+	"servers": ["https://raw.githubusercontent.com/Fukki/auto-pot/master/"],
+	"supportUrl": "https://github.com/Fukki/auto-pot/issues/"
+}

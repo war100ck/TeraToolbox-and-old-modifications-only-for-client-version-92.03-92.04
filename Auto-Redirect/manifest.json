@@ -1,0 +1,12 @@
+{
+    "files": {
+        "index.js": "4d7d3bba8053fb2dbe4ddce2cd79b991fce9e4f693c65066bb7d6b67e11215a9",
+        "module.json": "d270917ebed737b75a4c40fdb2d52bf2d7688ab13041ff2ff74f78e5a88d9179",
+        "settings_migrator.js": "68496c1958c146fb5d0a0596160182898f86e52ec818841ae307225a96ddefde"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "C_RESET_ALL_DUNGEON": 1,
+        "S_SPAWN_ME": 3
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Auto-Guildquest",
+    "options": {
+        "niceName": "Auto-Guildquest",
+        "guiName": "Auto-Guildquest(Автоматизация квестов Гильдии и Авангарда)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "PsykoDev",
+    "description": "Автоматизация квестов Гильдии и Авангарда / Взятие и Сдача квестов в автоматическом режиме",
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Auto-Guildquest/master/"],
+    "supportUrl": "https://github.com/PsykoDev/Auto-Guildquest/issues",
+    "version": "RU v92.04"
+}

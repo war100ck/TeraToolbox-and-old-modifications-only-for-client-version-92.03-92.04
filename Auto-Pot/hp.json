@@ -1,0 +1,66 @@
+{
+"213823": {
+"name": "Зелье обновления",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 30,
+"slay_at": 30,
+"cd": 10
+},
+"6550": {
+"name": "Minor Recovery Potable",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"slay_at": 30,
+"cd": 10
+},
+"6551": {
+"name": "Major Recovery Potable",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"slay_at": 30,
+"cd": 10
+},
+"6552": {
+"name": "Зелье HP высшего уровня",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"slay_at": 30,
+"cd": 10
+},
+"6553": {
+"name": "Зелье HP самого высокого уровня",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 80,
+"slay_at": 30,
+"cd": 10
+},
+"116": {
+"name": "Health Potion",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 30,
+"slay_at": 10,
+"cd": 30
+},
+"111": {
+"name": "Rejuvenation Potion",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 30,
+"slay_at": 10,
+"cd": 30
+},
+"114": {
+"name": "Valkyon Health Potion",
+"inBattleground": false,
+"inCombat": false,
+"use_at": 30,
+"slay_at": 10,
+"cd": 30
+}
+}
