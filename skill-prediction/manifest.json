@@ -1,0 +1,25 @@
+{
+	"files": {
+		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
+		"README.md": "c3a3694aa77127a2ef21d0e8628f9c8766a25c4b15f3e028d290cfda84587210",
+		"config/abnormalities.js": "037460fe381086236482aeb6ab7b812155a3370c67aebae97e5665ac399fac8e",
+		"config/ep.json": "5be8427a1f71b610b34b96ce2ee4c17610873c15878fbf051aefd7c5cac37c8d",
+		"config/passivity.json": "7332ec37f31063ee145e16879158bf636117b7a5625ea7237705e17e416ff298",
+		"config/polishing.json": "0c96e135535b1ee6bcc04407d81cf50552ce2eca23ebeeea31ffe5531776098e",
+		"config/silence.json": "db40463be3a4713e9ee97b51074cd6ab589b28500dd5028c59e17647eb0785e1",
+		"config/skills.js": "a2a9ccc3fd3e35ed46f9e18ec176bd64e862a8bc8a6bfd46f659cf0f8315093b",
+		"config/skills_client.json": "8d6544cabd994a76b96afc4c426c1ef826ddf8acf4a6b746fa879533c0cae57f",
+		"lib/abnormalities.js": "cd4195728c6f57b0d55a4b85368512d7bdf99c8693d0c891d7233a82218df645",
+		"lib/commands.js": "88ad8919eb166a7cd0cba4aae9a3c2981219f45f486f97a4ec63d4ef48feb095",
+		"lib/cooldowns.js": "1db5baba6f865f7dd40b4a42942d7c49b71ce948b0e7bb94d9fb6b023f095054",
+		"lib/core.js": "e1a3f177a58254e8ada628287d8e58f551f1620f12478fa5aac238cd72b5d8f5",
+		"lib/debug.js": "e588440fd11eb3d7eb84b15789df92b7f15d9d560ec2f7ef8597c384e402efb7",
+		"lib/index.js": "922cd3cd030b51026fbe62d6cddf858f4e156d79dcbcdad6e6eddff40e51ccba",
+		"lib/ping.js": "72685743a006c63a839fdff8f9b448e3e31ccfda534acbd3c1396f5eb4e8e994",
+		"lib/player.js": "f9855c113fd18a1fdc00dd5176fb22be918ec389e2b966caa8556e2f4a2ad569",
+		"lib/require.js": "d8fcd57f21ba1cea3d474688c994804b21676c6a4cb6a9dbc4ed929c79a37dac",
+		"migration.js": "e12e676368ac8bd2ae800cf9403a925bd12924dddd398aa2674e0cb5966377d2",
+		"module.json": "3d61f56873479ab796ad76c120780ba111510f888b7f05c5a2bfe33325423a31",
+		"package.json": "f661f14ae53eeae6bdc3f0679f27ce4d336907649eca15eba6725703a01fb0a9"
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "files": {
+        "C_REQUEST_EVENT_MATCHING_TELEPORT.0.def": "eb584125032d9d3be2f1bb93d885e61bea4616768233731470a10df2d461c552",
+        "index.js": "1c26d28677388378688fd496daaa1dae70ed59a534b3fe258d099eba7e63cde7",
+        "module.json": "0e9d38bf81ced2fc997d2787102bb562cae02ae9dbd59f32db3fe6685127a561",
+        "teleport-list.json": "b7e1e3680b2c4d8ee3dec307840efe4a5ed634bbe7be3dbdad0a8f535bab6384"
+    },
+    "defs": {
+        "S_ANNOUNCE_UPDATE_NOTIFICATION": 1,
+        "S_LOAD_TOPO": "raw"
+    }
+}

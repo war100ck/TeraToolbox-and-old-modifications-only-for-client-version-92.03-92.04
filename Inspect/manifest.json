@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "64f8e4667d4b2f74e06ade4ad6c535bf2d4d5d0a1b8ae8926873022f02a665ae",
+        "module.json": "c37b557eab0815d471ea24134ed9a37190c81954d6929bc357c5a6a7d9409145"
+    },
+    "defs": {
+        "C_REQUEST_USER_PAPERDOLL_INFO": 3,
+        "S_ANSWER_INTERACTIVE": 2
+    }
+}

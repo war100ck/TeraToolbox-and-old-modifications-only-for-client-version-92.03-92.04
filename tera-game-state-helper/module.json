@@ -1,0 +1,8 @@
+{
+    "name": "tera-game-state-helper",
+    "category": "client",
+    "author": "Caali",
+    "description": "Helper module for tera-game-state.",
+    "version": "1.0",
+    "servers": ["https://raw.githubusercontent.com/tera-toolbox/tera-game-state-helper/master/"]
+}

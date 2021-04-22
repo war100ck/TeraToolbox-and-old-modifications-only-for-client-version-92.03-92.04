@@ -1,0 +1,63 @@
+{
+	"settings": [
+		"ninja",
+		false,
+		true,
+		false,
+		false,
+		true,
+		"89",
+		true,
+		290100,
+		"90",
+		false,
+		"2000",
+		false,
+		90,
+		true,
+		0
+	],
+	"sorc": [],
+	"rsorc": [],
+	"arch": [],
+	"rarch": [],
+	"gun": [],
+	"rgun": [],
+	"priest": [],
+	"rpriest": [],
+	"myst": [],
+	"rmyst": [],
+	"lanc": [
+		[
+			100300,
+			"debilitate",
+			0,
+			"0",
+			"750",
+			"2600"
+		],
+		[
+			280100,
+			"superleap",
+			0,
+			"0",
+			"1000",
+			0
+		]
+	],
+	"rlanc": [],
+	"brawl": [],
+	"rbrawl": [],
+	"war": [],
+	"rwar": [],
+	"zerk": [],
+	"rzerk": [],
+	"ninja": [],
+	"rninja": [],
+	"reaper": [],
+	"rreaper": [],
+	"valk": [],
+	"rvalk": [],
+	"slayer": [],
+	"rslayer": []
+}

@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-message",
+    "options": {
+        "niceName": "TERA-Message",
+        "guiName": "TERA-Message"
+    },
+    "author": "ZC, PsykoDev",
+    "description": "Proxy output color text",
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/tera-message/master/"],
+    "supportUrl": "https://github.com/PsykoDev/tera-message/issues",
+    "version": "81.03"
+}

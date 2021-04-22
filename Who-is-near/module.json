@@ -1,0 +1,12 @@
+{
+    "name": "Who-is-Near",
+    "options": {
+        "niceName": "Who-is-Near (Показывает  кто с Вами рядом.)",
+        "guiName": "❗Who-is-Near (Показывает  кто с Вами рядом.)"
+    },
+    "author": "ZC / seraphinush-gaming",
+    "description": "Показывает в чате кто из игроков находится рядом с вами и записывает в лог файл. Для работы модуля необходим установленный модуль *Tera-Message*",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "RU v92.04"
+}

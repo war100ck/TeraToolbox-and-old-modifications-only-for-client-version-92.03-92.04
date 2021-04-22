@@ -1,0 +1,15 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "GageBar_TopScreen",
+    "category" : "client",
+    "description" : "Перемещает прогресс бар / сбора в местоположение системных сообщений.",
+    "author" : "Foglio",
+    "options": {
+		"niceName": "Progress bar: top screen (Прогресс бар действий)",
+		"guiName": "Progress bar: top screen (Прогресс бар действий)"
+	},
+    "servers" : [
+        ""
+    ],
+	"version": "v92.04"
+}

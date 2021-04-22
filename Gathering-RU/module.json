@@ -1,0 +1,19 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Помощь по сбору",
+    "options": {
+        "niceName": "Gathering-RU (Помощь по сбору)",
+        "guiName": "Gathering-RU (Помощь по сбору)",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1
+    },
+    "author": "ZC, translanion RU: WAR100CK",
+    "description": "Помощь по сбору рессурсов",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/Gathering-RU/"],
+    "supportUrl": "https://github.com/war100ck/others/issues",
+    "dependencies": {
+        "tera-message": "https://raw.githubusercontent.com/tera-mod/tera-message/master/module.json"
+    },
+    "version": "v92.04"
+}

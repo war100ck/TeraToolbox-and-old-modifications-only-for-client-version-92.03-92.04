@@ -1,0 +1,12 @@
+{
+    "name": "Tele-Port",
+    "options": {
+        "niceName": "定点传送",
+        "guiName": "定点传送(Tele-Port)"
+    },
+    "author": "ZC",
+    "description": "保存定点 / 读取定点",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/Tele-Port/master/"],
+    "supportUrl": "https://github.com/tera-mod/Tele-Port/issues",
+    "version": "87.05"
+}

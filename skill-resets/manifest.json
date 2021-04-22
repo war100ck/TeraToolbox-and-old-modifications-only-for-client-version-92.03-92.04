@@ -1,0 +1,12 @@
+{
+    "files": {
+        "module.json": "cb5f06734fdbf874d009bf7db81e51e616967cf722a2e3aad8798d5d21c201b8",
+        "index.js": "8ecf390c023a74f0197f2bb74660ad0ab321124c1291cbc4224e708c28caabb4",
+        "settings_migrator.js": "c4ce3950453e38bba3d49e9daf853139fb77dc4a47e26688d07d33d646c94969"
+    },
+    "defs": {
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_CREST_MESSAGE": 2,
+        "S_PLAY_SOUND": 1
+    }
+}

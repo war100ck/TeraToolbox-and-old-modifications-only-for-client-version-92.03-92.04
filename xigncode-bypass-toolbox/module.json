@@ -1,0 +1,12 @@
+{
+    "name": "xigncode-bypass",
+    "category": "client",
+    "options": {
+        "guiName": "XIGNCODE3 Bypass"
+    },
+    "author": "ZC / Caali",
+    "description": "Prevents XIGNCODE3 from being started and installed on your system.",
+    "servers": ["https://raw.githubusercontent.com/zc149352394/xigncode-bypass-toolbox/master/"],
+    "supportUrl": "https://github.com/zc149352394/xigncode-bypass-toolbox/issues",
+    "version": "2.0"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "No-Body-Block",
+    "options": {
+        "niceName": "No-Body-Block",
+        "guiName": "No-Body-Block (No-Body-Block)"
+    },
+    "author": "ZC / soler91",
+    "description": "移除-队友碰撞体积",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/No-Body-Block/master/"],
+    "supportUrl": "https://github.com/tera-mod/No-Body-Block/issues",
+    "version": "v92.04"
+}

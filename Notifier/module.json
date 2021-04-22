@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "notifier",
+    "author": "Seren",
+    "description": "Позволяет модулям прокси использовать функцию уведомлений Windows для оповещений и обмена сообщениями.",
+    "version": "v92.04",
+    "options": {
+        "niceName": "TeraNotifier (Уведомление Windows для Tera)", 
+        "settingsVersion": 2,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/SerenTera/tera-notifier/master/"]
+}

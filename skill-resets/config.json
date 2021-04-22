@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "data": {
+        "show_system_reset_message": false,
+        "reset_font_color": "#FF4500",
+        "sound": false
+    }
+}

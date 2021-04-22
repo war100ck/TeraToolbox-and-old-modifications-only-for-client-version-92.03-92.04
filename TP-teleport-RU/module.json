@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "TP-Teleport-RU",
+    "options": {
+        "niceName": "TP-Teleport-RU",
+        "guiName": "TP-Teleport-RU"
+    },
+    "author": "edu, PsykoDev, translation RU: war100ck",
+    "description": "Быстрая телепортация в некоторые локации",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/TP-teleport-RU/"],
+    "version": "91.4"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "instant-everything",
+    "author": "Caali / Pinkie Pie / m0py / Snug / beng",
+    "description": "Удаляет раздражающую анимацию и пропускает индикатор выполнения зачаровывания, улучшения, разборки и объединения предметов.",
+    "version": "v92.04",
+    "servers": [""],
+    "options": {
+        "niceName": "InstantEverything (Пропуск Всего)",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "conflicts": ["instant-enchant", "instant-upgrade", "instant-soulbind", "instant-dismantle", "instant-merge"]
+}

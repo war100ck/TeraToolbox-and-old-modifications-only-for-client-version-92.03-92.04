@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Monitor-Control",
+	"options": {
+		"niceName": "Monitor-Control (Скрытие эффектов)",
+		"guiName": "Monitor-Control (Скрытие эффектов)"
+	},
+	"author": "ZC, translation: war100ck",
+	"description": "Описание: Устранение различных дефектов экрана (пивное головокружение и т. Д.)",
+	"servers": [""],
+	"supportUrl": "",
+	"version": "92.04"
+}

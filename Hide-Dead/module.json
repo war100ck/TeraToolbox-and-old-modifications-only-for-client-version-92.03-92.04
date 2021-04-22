@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Hide-Dead",
+    "options": {
+        "niceName": "Hide-Dead (Скрытие анимации смерти монстров.)",
+        "guiName": "Hide-Dead (Скрытие анимации смерти монстров.)"
+    },
+    "author": "PsykoDev",
+    "description": "Модуль убирает анимацию монстров после смерти",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "v92.04"
+}

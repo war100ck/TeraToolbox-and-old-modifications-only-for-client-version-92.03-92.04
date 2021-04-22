@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": true,
+        "hide_duration": true,
+        "hide_message": true,
+        "keep_resurrection_invincibility": false,
+        "interval": 1000
+    }
+}

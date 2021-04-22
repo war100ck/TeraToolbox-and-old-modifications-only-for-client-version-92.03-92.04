@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "monster-marker-RU",
+    "options": {
+        "niceName": "Monster Marker RU",
+        "guiName": "Monster Marker RU"
+    },
+    "author": "Seren / Witch ,Translation RU: war100ck",
+    "description": "Выделяет монстров указанных пользователем , мировых боссов и монстров специальных событий. Version: Patch 90.2",
+    "servers": ["https://raw.githubusercontent.com/war100ck/others/master/Monster-Marker-RU/"],
+    "supportUrl": "https://github.com/Witch-hue/Monster-Marker/issues",
+    "version": "92.4"
+}

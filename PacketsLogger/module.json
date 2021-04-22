@@ -1,0 +1,10 @@
+{
+	"disableAutoUpdate": false,
+	"name": "PacketsLogger",
+	"options": {
+		"niceName": "PacketsLogger",
+		"guiName": "PacketsLogger"
+	},
+	"servers": [""],
+	"supportUrl": ""
+}

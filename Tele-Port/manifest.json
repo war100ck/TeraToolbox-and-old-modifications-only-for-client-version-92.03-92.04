@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "d593f7213a0c67d9db3af76b802d3267c3925f53399335d288c6e8764697ee85",
+        "module.json": "d42093362f5c84a733b2644ce106990450e45f226a61241bb20f6ca6231974b7"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_INSTANT_MOVE": 3
+    }
+}

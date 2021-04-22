@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "6f60d0734f859ca91727ead775347cbb2fa519e695c30f06265f582ce6f163b7",
+        "module.json": "b4e3c042f977cea62bf405e01f983b2f6f352f1486e4875cf1242fd121a4c605"
+    },
+    "defs": {
+        "S_PARTY_INFO": 1,
+        "S_PARTY_MEMBER_LIST": 7
+    }
+}

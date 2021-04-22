@@ -1,0 +1,12 @@
+{
+    "name": "Inspect",
+    "options": {
+        "niceName": "Inspect",
+        "guiName": "Inspect (Осмотр Игрока)"
+    },
+    "author": "ZC / teralove",
+    "description": "Просмотр профилей игроков, срабатывает при нажатии левой / правой кнопки мыши на никнейм, интегрирован в выпадающий список",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "v92.04"
+}

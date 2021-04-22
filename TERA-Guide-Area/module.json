@@ -1,0 +1,12 @@
+{
+    "name": "Tera-Guide-Area",
+    "options": {
+        "niceName": "Tera-Guide-Area (Советы по подземельям)",
+        "guiName": "Tera-Guide-Area (Советы по подземельям)"
+    },
+    "author": "ZC",
+    "description": "Подсказки по зонам атак боссов в подземельях",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "92.04"
+}

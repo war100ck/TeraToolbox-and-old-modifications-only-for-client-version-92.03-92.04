@@ -1,0 +1,10 @@
+{
+	"name": "No-Mote-Cancel",
+	"update": "github:tera-mods/no-mote-cancel",
+	"title": "No Mote Cancel",
+	"author": "Pinkie Pie",
+	"description": "Reverts Mystic motes to the old style of casting where moving will not cancel the skill.",
+	"servers": [""],
+    "supportUrl": "",
+	"version": "v92.04"
+}

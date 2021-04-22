@@ -1,0 +1,15 @@
+{
+	"files": {
+		"config.json": {
+			"overwrite": false,
+			"hash": "6593d6f9b7838cacc72448029a455ee4d981d07a032765c27a60d1dee58ccc4d"
+		},
+		"index.js": "1b8e4d5834498fd3a4ebc96e4552fa755cbeab70ed6628bc8e0d8e4338cce836",
+		"module.json": "1b39a03d690255dc66f9c81c28d1b583f2913e158ad289a771707f36160bf5c3"
+	},
+	"defs": {
+		"S_ABNORMALITY_BEGIN": 3,
+		"S_ABNORMALITY_REFRESH": 1,
+		"S_START_ACTION_SCRIPT": 3
+	}
+}

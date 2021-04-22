@@ -1,0 +1,13 @@
+{
+    "name": "Tera-Guide EN",
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Dungeon Guides (Советы по подземельям)",
+        "guiName": "Tera-Guide EN (Советы по подземельям)"
+    },
+    "author": "ZC,Pepsi",
+    "description": "Руководства по подземельям Tera",
+    "servers": [""],
+    "supportUrl": "",
+    "version": "92.04"
+}
