@@ -8,9 +8,9 @@
 
 <p align="center"><img src="https://github.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/blob/main/DPS-Monitor_EN/screenshot/4.png" alt="Your image title" width="400"/> <img src="https://github.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/blob/main/DPS-Monitor_EN/screenshot/5.png" alt="Your image title" width="400"/> 
 
-| Plugin | README |
+| Сommand | Description |
 | - | - |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| dps or dps u/ui | [Show / Hide Panel |
 
 
 
