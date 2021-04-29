@@ -1,5 +1,4 @@
-<p align="center"><img src="https://github.com/war100ck/others/blob/master/terabooxlogo.svg" alt="Your image title" width="100"/></p>
-# Dillinger
+# Tera DPS meter.
 
 ## _The module shows the calculation of battle statistics, displays it in a separate window or chat._
 
