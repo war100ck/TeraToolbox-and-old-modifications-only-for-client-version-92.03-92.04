@@ -2,11 +2,12 @@
     "disableAutoUpdate": false,
     "name": "DG-Teleport-RU",
     "options": {
-        "niceName": "DG-Teleport-RU",
-        "guiName": "DG-Teleport-RU"
+        "niceName": "🌐 DG-Teleport-RU",
+        "guiName": "🌐 <font color='#FDD017'>DG-Teleport-RU (Телепортация к подземелью)</font>",
+		"reloadable": true
     },
-    "author": "edu, PsykoDev, translation RU: war100ck",
+    "author": "<font color='#00FFFF'>edu, PsykoDev, translation RU: war100ck</font>",
     "description": "Быстрая телепортация к входу подземелья",
     "servers": ["https://raw.githubusercontent.com/war100ck/others/master/DG-teleport-RU/"],
-    "version": "91.4"
+    "version": "<font color='#00FFFF'>RU v92.04</font>"
 }

@@ -1,26 +1,31 @@
 # dg-teleport
-Fast teleport to every important dungeon with GUI or not
+## _Быстрый телепорт в подземелье с графическим интерфейсом_
 
-## Author of the original mod [PsykoDev / dg-teleport](https://github.com/PsykoDev/dg-teleport)
-### This is only a translation of the original version.
 
-## Usage
+> This is only a translation of the original version.
+> Это всего лишь перевод оригинальной версии / внесены некоторые изменения.
+
+## Использование
 ### `dg`
-- Bring the GUI with dungeon list
-### `dg "name"`
-- Instant teleport to dungeon entrance
+- Вызов графического интерфейса со списком подземелий
+- Мгновенный телепорт ко входу в подземелье
 
-### Screen
+## Инфо
+> Модуль содержит все существующие на данный момент подземелья которые включены на сервере v92.03.
 
-## Info
-The module contains all the dungeons that exist at this time.
+> У вас должен быть соответствующий уровень персонажа и экипировки, для телепортации в каждое подземелье.
 
-You can use part of dungeon name or its known abbreviations. eg.: gls, aahm, aq...
+> Мод использует оригинальную кнопку «Go to Dungeon Entrance», чтобы телепортировать вас, так что не бойтесь.
 
-You need to have proper ilvl to teleport to each dungeon.
+> Мод использует оригинальную кнопку  `«Go to Dungeon Entrance»`, чтобы телепортировать вас, так что не бойтесь.
 
-Mod uses the original 'Go to Dungeon Entrance' button to teleport you, so don't be afraid.
-
-### Screen
+### Скрин
 ![screenshot](https://i.imgur.com/R3kBPkK.png)
 ---
+
+-  Modification author [PsykoDev](https://github.com/PsykoDev/)
+
+- [https://github.com/PsykoDev/dg-teleport/](https://github.com/PsykoDev/dg-teleport)
+
+> This is only a translation of the module into Russian.
+
