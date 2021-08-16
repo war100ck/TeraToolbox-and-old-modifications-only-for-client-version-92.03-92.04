@@ -11,7 +11,9 @@ Easy-Fishing Быстрая рыбалка
 
 ![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_ATeQDr7DQa.png)
 
-![screenshot](https://github.com/zc149352394/Easy-Fishing/blob/master/screenshot/05.png)
+![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_sDQLUG5UTr.png)
+
+![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/Code_Ql6sLbz9HK.png)
 
 # Описание
 
