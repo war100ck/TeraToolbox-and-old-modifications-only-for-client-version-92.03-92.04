@@ -1,12 +1,13 @@
 {
-    "name": "Cmd-Slash",
+    "name": "CmdSlash",
     "options": {
-        "niceName": "快捷命令",
-        "guiName": "快捷命令(Cmd-Slash)"
+        "niceName": "🌐 CmdSlash",
+        "guiName": "🌐 <font color='#FDD017'>Cmd-Slash (Команды чата для быстрых действий)</font>",
+		"reloadable": true
     },
-    "author": "ZC / seraphinush-gaming",
-    "description": "用命令执行一些便捷的游戏操作",
+    "author": "<font color='#00FFFF'>ZC / seraphinush-gaming</font>",
+    "description": "Используйте короткие команды для выполнения некоторых удобных игровых операций",
     "servers": ["https://raw.githubusercontent.com/tera-mod/Cmd-Slash/master/"],
     "supportUrl": "https://github.com/tera-mod/Cmd-Slash/issues",
-    "version": "87.05"
+    "version": "<font color='#00FFFF'>v92.04</font>"
 }
