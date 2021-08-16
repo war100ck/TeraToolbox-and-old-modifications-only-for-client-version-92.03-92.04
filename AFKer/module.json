@@ -2,11 +2,12 @@
     "name": "AFKer",
     "options": {
         "niceName": "AFKer",
-        "guiName": "AFKer (Позволяет стоять персонажу АФК)"
+        "guiName": "<font color='#FDD017'>AFKer (Позволяет стоять персонажу АФК)</font>",
+		"reloadable": true
     },
-    "author": "ZC / TeraProxy",
+    "author": "<font color='#00FFFF'>ZC / TeraProxy</font>",
     "description": "Позволяет стоять персонажу АФК и предотвращает быть кикнутым",
     "servers": ["https://raw.githubusercontent.com/tera-mod/AFKer/master/"],
     "supportUrl": "https://github.com/tera-mod/AFKer/issues",
-    "version": "v92.04"
+    "version": "<font color='#00FFFF'>v92.04</font>"
 }
