@@ -1,4 +1,7 @@
 Easy-Fishing Быстрая рыбалка
+
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/1.png" alt="Your image title" width="1000"/>
+
 ======
 
 # Важно!
@@ -63,6 +66,8 @@ Easy-Fishing Быстрая рыбалка
 `f val` `[число]` | Установка [расстояния] заброса удочки 0 ~ 18
 `f status` | Выводит в чат состояние модуля и функций
 `f log` | Включает / Отключает логирование модуля в чате
+
+![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/chat.png)
 
 --- | ---
 `f set` | Открытие окна настроек модуля в Toolbox
