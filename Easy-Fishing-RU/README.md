@@ -1,10 +1,10 @@
 # Easy-Fishing 
 ## _Быстрая рыбалка_
-======
+------
 
 <p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/1.png" alt="Your image title" width="1000"/>
 
-======
+------
 
 # Важно:heavy_exclamation_mark:
 
