@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "ChatLog",
+	"options": {
+        "niceName": "🌐 Chatlog",
+        "guiName": "🌐 <font color='#FDD017'>Chatlog (Запись чата)</font>",
+		"reloadable": true,
+        "settingsFile": "config.json"
+    },
+    "author": "<font color='#00FFFF'>NMods</font>",
+    "description": "Модуль позволяет записывать в файл любой из чатов.",
+    "servers": ["https://raw.githubusercontent.com/nmods/chatlog/master/"],
+	"version": "<font color='#00FFFF'>RU v92.04</font>"
+}

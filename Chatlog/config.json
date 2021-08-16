@@ -1,0 +1,43 @@
+{
+    "files": [
+        {
+            "fileName": "social",
+            "channels": [
+                "party",
+                "partynotice",
+                "guild",
+                "raid",
+                "raidnotice"
+            ]
+        },
+        {
+            "fileName": "private",
+            "channels": [
+                "whisper",
+                "private"
+            ]
+        },
+        {
+            "fileName": "say",
+            "channels": [
+                "say"
+            ]
+        },
+        {
+            "fileName": "globaltrade",
+            "channels": [
+                "global",
+                "trade"
+            ]
+        }
+    ],
+    "format":{
+        "whisper":{
+            "to":"%timestamp%[W to][%author%]: %msg%",
+            "from":"%timestamp%[W from][%author%]: %msg%"
+        },
+        "chat":"%timestamp%[%channel%][%author%]: %msg%",
+        "timestamp":"[%y%/%m%/%d%][%h%:%m%:%s%]"
+    },
+    "path":"./LogChat/"
+}

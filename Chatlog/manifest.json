@@ -1,0 +1,14 @@
+{
+	"files": {
+		"config.json": "fffe39477fabc3e7ea9c721a06989eee5ba501bd4fb85e3bcbb3738527d83ae6",
+		"index.js": "0402966a168a1c7f436bcfdc0bb6e8357cae6a6096c632969a0715c6b240837a",
+		"module.json": "46982ef71d3afdccdebb12fd4da93a31afa7c93629b4a3198c83377c3164fd1c",
+		"string.js": "7af5dc1b919320501a6bdb0c51dc46fbf1410cb776e31c175b839c18af2c4a97"
+	},
+	"defs": {
+		"S_CHAT": 3,
+		"S_JOIN_PRIVATE_CHANNEL": 2,
+		"S_PRIVATE_CHAT": 1,
+		"S_WHISPER": 3
+	}
+}
