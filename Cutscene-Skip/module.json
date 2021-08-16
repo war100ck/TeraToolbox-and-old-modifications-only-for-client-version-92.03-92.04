@@ -1,12 +1,13 @@
 {
     "name": "Cutscene-Skip",
     "options": {
-        "niceName": "Cutscene-Skip",
-        "guiName": "Cutscene-Skip (Пропуск Cutscene)"
+        "niceName": "🌐 Cutscene-Skip",
+        "guiName": "🌐 <font color='#FDD017'>Cutscene-Skip (Пропуск Кат-сцен)</font>",
+		"reloadable": true
     },
-    "author": "ZC / meishuu",
-    "description": "Автопропуск видеороликов (Cutscene), не нужно нажимать Esc",
+    "author": "<font color='#00FFFF'>ZC / meishuu</font>",
+    "description": "Автопропуск видеороликов (Пропуск Кат-сцен), не нужно нажимать Esc",
     "servers": ["https://raw.githubusercontent.com/tera-mod/Cutscene-Skip/master/"],
     "supportUrl": "https://github.com/tera-mod/Cutscene-Skip/issues",
-    "version": "v92.04"
+    "version": "<font color='#00FFFF'>v92.04</font>"
 }
