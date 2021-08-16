@@ -1,15 +1,16 @@
 {
     "name": "Camera-Control",
     "options": {
-        "niceName": "镜头视距",
-        "guiName": "镜头视距(Camera-Control)",
+        "niceName": "🌐 Camera-Control",
+        "guiName": "🌐 <font color='#FDD017'>Camera-Control (Дистанция камеры)</font>",
+		"reloadable": true,
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
         "settingsVersion": 1
     },
-    "author": "ZC / teralove",
-    "description": "自定义镜头视距",
+    "author": "<font color='#00FFFF'>ZC / teralove</font>",
+    "description": "Настраиваемая дистанция камеры",
     "servers": ["https://raw.githubusercontent.com/tera-mod/Camera-Control/master/"],
     "supportUrl": "https://github.com/tera-mod/Camera-Control/issues",
-    "version": "87.05"
+    "version": "<font color='#00FFFF'>RU v92.04</font>"
 }
