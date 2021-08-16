@@ -14,6 +14,8 @@
 
 Предустановленный модуль в TeraToolbox `instant-everything` имеет конфликт с включенной по умолчанию функцией разбора (отмена полосы прогресса при разборе), пожалуйста, отключите эту функцию !!
 
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_ATeQDr7DQa.png" alt="Your image title"/> <img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_sDQLUG5UTr.png" alt="Your image title"/> <img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/Code_Ql6sLbz9HK.png" alt="Your image title"/> 
+
 <p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_ATeQDr7DQa.png" alt="Your image title" width="200"/> <img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/explorer_sDQLUG5UTr.png" alt="Your image title" width="200"/> <img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/Code_Ql6sLbz9HK.png" alt="Your image title" width="200"/> 
 
 # Описание
