@@ -64,14 +64,10 @@ Easy-Fishing Быстрая рыбалка
 `f status` | Выводит в чат состояние модуля и функций
 `f log` | Включает / Отключает логирование модуля в чате
 
-
-![screenshot](https://github.com/zc149352394/Easy-Fishing/blob/master/screenshot/07.png)
-
-
 --- | ---
 f set | Открытие окна настроек модуля в Toolbox
 
-![screenshot](https://github.com/zc149352394/Easy-Fishing/blob/master/screenshot/08.png)
+![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/92Z25JDeFZ.png)
 
 ------
 
