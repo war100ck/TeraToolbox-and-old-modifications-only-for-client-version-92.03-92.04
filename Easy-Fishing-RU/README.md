@@ -67,7 +67,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/chat.png)
 
---- | ---
 `f set` | Открытие окна настроек модуля в Toolbox
 
 ![screenshot](https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Easy-Fishing-RU/screen/92Z25JDeFZ.png)
