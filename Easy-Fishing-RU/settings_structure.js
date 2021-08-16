@@ -67,5 +67,10 @@ module.exports = [
         "min": 0,
         "max": 18,
         "step": 1
+    },
+	{
+        "key": "log",
+        "name": "Логирование",
+        "type": "bool"
     }
 ];
