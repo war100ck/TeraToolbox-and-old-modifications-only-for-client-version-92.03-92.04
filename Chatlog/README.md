@@ -1,11 +1,11 @@
 # Chatlog
 
-Модуль снятия логов с чата для Toolbox
+## _Модуль снятия логов с чата для Toolbox_
 
 ### config file
 По умолчанию чат записывается в 4 файла, измените конфигурацию в соответствии с вашими потребностями.
-- `fileName` может быть что угодно
-- `channels` представляет собой строковый массив каналов, которые вы хотите зарегистрировать в этом файле
+- `fileName` название чата
+- `channels` представляет собой строковый массив каналов
   - действующие каналы:
     - `say`, `party`, `guild`, `area`, `trade`, `greet`, `bargain`, `lfg`, `partynotice`, `system`, `raidnotice`, `emote`, `global`, `raid`, `greetings`, `megaphone`, `guildad`, `whisper`, `private`
 
