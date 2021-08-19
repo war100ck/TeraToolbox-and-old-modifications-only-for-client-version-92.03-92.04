@@ -18,7 +18,7 @@
 
 -  Modification author [salchy-lab](https://github.com/salchy-lab)
 
-- [https://github.com/salchy-lab](https://github.com/tera-mod/)
+- [https://github.com/salchy-lab](https://github.com/salchy-lab)
 
 - ***Discord:*** *Salchy#5171*
 
