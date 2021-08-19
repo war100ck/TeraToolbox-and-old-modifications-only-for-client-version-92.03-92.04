@@ -2,7 +2,7 @@
 ## _Открытие NPC / Разных "торговцев" в любом месте._
 ------
 
-<p align="center"><img src="https://github.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/blob/main/Tera-Npc-Summoner/screen/s.png"/>
+<p align="center"><img src="https://github.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/blob/main/Tera-Npc-Summoner-RU/screen/s.png"/>
 
 ------
 
