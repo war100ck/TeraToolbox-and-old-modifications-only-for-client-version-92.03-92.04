@@ -38,7 +38,7 @@
 ------
 
 <details>
-  <summary>Spoiler warning</summary>
+  <summary>Что нового</summary>
   
 - Добавлено новое окно настроек и новая команда `сбор` `set`
   
