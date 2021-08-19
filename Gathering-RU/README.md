@@ -21,6 +21,9 @@
 
 ------
 *Предупреждающее сообщение (Alert)*
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/set.png"/>
+
+*Окно настроек*
 <p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png"/>
 
 *Уведомление (Notice)*
@@ -42,5 +45,8 @@
   <summary>Что нового</summary>
   
 - *Добавлено новое окно настроек, и новая команда `set`*
+
+*Окно настроек*
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png"/>
   
 </details>
