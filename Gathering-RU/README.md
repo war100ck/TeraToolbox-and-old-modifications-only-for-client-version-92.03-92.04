@@ -19,13 +19,12 @@
 | `сбор` `эссенция` | Вкл/Выкл - обнаружение (подсветка) эссенций. | 
 
 ------
-<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png" alt="Your image title"/>
-
 *Предупреждающее сообщение (Alert)*
-
-<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/2.png" alt="Your image title"/>
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png"/>
 
 *Уведомление (Notice)*
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/2.png"/>
+
 ------
 
 -  Modification author [ZC](https://github.com/tera-mod/)

@@ -1,11 +1,12 @@
 {
     "disableAutoUpdate": false,
-    "name": "Помощь по сбору",
+    "name": "gathering",
     "options": {
-        "niceName": "Gathering-RU (Помощь по сбору)",
-        "guiName": "Gathering-RU (Помощь по сбору)",
+        "niceName": "⚠️ Gathering-RU",
+        "guiName": "⚠️ Gathering-RU (Помощь по сбору)",
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
+		"reloadable": false,
         "settingsVersion": 1
     },
     "author": "ZC, translanion RU: WAR100CK",
