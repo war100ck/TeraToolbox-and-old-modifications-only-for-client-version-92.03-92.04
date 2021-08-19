@@ -4,10 +4,10 @@
     "disableAutoUpdate": false,
     "disabled": false,
     "donationUrl": "",
-    "name": "salchysummoner",
+    "name": "npcsummoner",
     "options": {
-        "niceName": "NPC Summoner",
-        "guiName": "<font color='#FDD017'>NPC Summoner</font>",
+        "niceName": "NPC-Summoner-RU",
+        "guiName": "<font color='#FDD017'>NPC-Summoner-RU</font>",
         "reloadable": true
     },
     "servers": ["https://raw.githubusercontent.com/salchy-tera/tera-npc-summoner/master/"],

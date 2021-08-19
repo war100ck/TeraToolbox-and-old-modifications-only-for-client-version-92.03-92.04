@@ -1,4 +1,4 @@
-module.exports = function SalchySummonerMaster(script) {	
+module.exports = function npcsummoner(script) {	
 	///
 	const path = require('path');
 	const fs = require('fs');
@@ -147,14 +147,14 @@ module.exports = function SalchySummonerMaster(script) {
 			"value": 3
 		},
 		{
-			"tname": "Персональное Хранилище",
+			"tname": "",
 			"name": "petbank",
 			"type": 26,
 			"npcId": 0,
 			"value": 9
 		},
 		{
-			"tname": "Склад Костюмов",
+			"tname": "",
 			"name": "wardrobe",
 			"type": 26,
 			"npcId": 0,
