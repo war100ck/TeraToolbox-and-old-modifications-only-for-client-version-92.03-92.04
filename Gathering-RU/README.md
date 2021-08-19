@@ -34,6 +34,7 @@
 
 > This is only a translation of the module into Russian.
 > No changes have been made to the module.
+> If possible, the module will be improved.
 
 ------
 
