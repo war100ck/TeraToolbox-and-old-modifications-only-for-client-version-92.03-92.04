@@ -1,23 +1,32 @@
-<p align="center"><img src="https://github.com/war100ck/others/blob/master/terabooxlogo.svg"></p>
+# Gathering-RU
+## _Подсказки для сбора рессурсов_
+------
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/bg.png" alt="Your image title" width="1000"/>
 
-# Подсказки для сбора рессурсов RU
----
 ## Описание:
 Подсветка рессурсов с выводом сообщений, как всех, так и по отдельности.
 
----
+------
 
 Комманда | Описание
 | ------------- | ------------- | 
-| сбор | Вкл/Выкл модуля | 
-| сбор warn | Вкл/Выкл - Предупреждающее сообщение (Alert). | 
-| сбор not | Вкл/Выкл - Уведомление (Notice). | 
-| сбор status | Показывает - сосотояние модуля. | 
-| сбор руда | Вкл/Выкл - обнаружение (подсветка) руды. | 
-| сбор растения | Вкл/Выкл - обнаружение (подсветка) растений. | 
-| сбор эссенция | Вкл/Выкл - обнаружение (подсветка) эссенций. | 
+| `сбор` | Вкл/Выкл модуля | 
+| `сбор` `warn` | Вкл/Выкл - Предупреждающее сообщение (Alert). | 
+| `сбор` `not` | Вкл/Выкл - Уведомление (Notice). | 
+| `сбор` `status` | Показывает - сосотояние модуля. | 
+| `сбор` `руда` | Вкл/Выкл - обнаружение (подсветка) руды. | 
+| `сбор` `растения` | Вкл/Выкл - обнаружение (подсветка) растений. | 
+| `сбор` `эссенция` | Вкл/Выкл - обнаружение (подсветка) эссенций. | 
 
----
-## Автор оригинального мода [Gathering](https://github.com/tera-mod/Gathering)
-## The original mod is taken from [Gathering](https://github.com/tera-mod/Gathering) and translated into Russian.
----
+------
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png" alt="Your image title"/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png" alt="Your image title"/>
+------
+
+-  Modification author [ZC](https://github.com/tera-mod/)
+
+- [https://github.com/tera-mod/](https://github.com/tera-mod/)
+
+> This is only a translation of the module into Russian.
+> No changes have been made to the module.
