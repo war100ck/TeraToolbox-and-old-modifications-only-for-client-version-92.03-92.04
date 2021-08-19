@@ -21,8 +21,11 @@
 ------
 <p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/1.png" alt="Your image title"/>
 
+> The overriding design goal for Markdown's
+
 <p align="center"><img src="https://raw.githubusercontent.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/main/Gathering-RU/screen/2.png" alt="Your image title"/>
 
+> The overriding design goal for Markdown's
 ------
 
 -  Modification author [ZC](https://github.com/tera-mod/)
