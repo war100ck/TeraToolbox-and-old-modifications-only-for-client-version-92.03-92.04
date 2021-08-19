@@ -20,7 +20,7 @@
 
 - [https://github.com/salchy-lab](https://github.com/tera-mod/)
 
-- Discord: Salchy#5171
+- ***Discord:*** *Salchy#5171*
 
 > This is only a translation of the module into Russian.
 > No changes have been made to the module.
