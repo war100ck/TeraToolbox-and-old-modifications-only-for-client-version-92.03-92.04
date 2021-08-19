@@ -4,6 +4,8 @@
 ------
 # Использование
 
+<p align="center"><img src="https://github.com/war100ck/TeraToolbox-and-old-modifications-only-for-client-version-92.03-92.04/blob/main/Tera-Npc-Summoner/screen/s.png"/>
+
 Комманда | Описание
 | ------------- | ------------- | 
 | `sum` / `s` | Открыть окно UI с разными NPC для призыва |
@@ -16,7 +18,7 @@
 
 - [https://github.com/salchy-lab](https://github.com/tera-mod/)
 
-- [Discord: Salchy#5171
+- Discord: Salchy#5171
 
 > This is only a translation of the module into Russian.
 > No changes have been made to the module.
