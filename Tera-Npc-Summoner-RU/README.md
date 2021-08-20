@@ -16,7 +16,7 @@
 
 ------
 
--  Modification author [salchy-lab](https://github.com/salchy-tera)
+-  Modification author [salchy-tera](https://github.com/salchy-tera)
 
 - [https://github.com/salchy-tera/tera-npc-summoner](https://github.com/salchy-tera/tera-npc-summoner)
 
