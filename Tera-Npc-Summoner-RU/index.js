@@ -140,21 +140,21 @@ module.exports = function npcsummoner(script) {
 			"value": 1
 		},
 		{
-			"tname": "ГИ Банк",
+			"tname": "Гильдейский Банк",
 			"name": "gbank",
 			"type": 26,
 			"npcId": 0,
 			"value": 3
 		},
 		{
-			"tname": "",
+			"tname": "Персональное Хранилище",
 			"name": "petbank",
 			"type": 26,
 			"npcId": 0,
 			"value": 9
 		},
 		{
-			"tname": "",
+			"tname": "Склад Костюмов",
 			"name": "wardrobe",
 			"type": 26,
 			"npcId": 0,
