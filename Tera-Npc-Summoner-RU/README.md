@@ -16,9 +16,9 @@
 
 ------
 
--  Modification author [salchy-lab](https://github.com/salchy-lab)
+-  Modification author [salchy-lab](https://github.com/salchy-tera)
 
-- [https://github.com/salchy-lab](https://github.com/salchy-lab)
+- [https://github.com/salchy-tera/tera-npc-summoner](https://github.com/salchy-tera/tera-npc-summoner)
 
 - ***Discord:*** *Salchy#5171*
 
