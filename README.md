@@ -11,23 +11,15 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%86%93+Download+TeraToolbox+you+can+follow+the+link+below+%E2%86%93&size=20&color=1366F7font=Fira%20Code&center=true&width=650&height=35"> 
 </p>  
    
-  
-  
+<h3 align="center">TeraToolbox 92.03-92.04 <a href="https://drive.google.com/file/d/1PVa8EkXZmhuuxjf4NVyy9HMx94VwRHno/view?usp=sharing" target="_blank">↓ Download ↓</a> 
 
-<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://drive.google.com/file/d/1PVa8EkXZmhuuxjf4NVyy9HMx94VwRHno/view?usp=sharing)" target="_blank">Daniil</a> 
-  
-  
-  
-[⬇ Download TeraToolbox 92.03-92.04 ⬇](https://drive.google.com/file/d/1PVa8EkXZmhuuxjf4NVyy9HMx94VwRHno/view?usp=sharing)
-
-
-<h3 align="left">Installer window</h3>
+<h4 align="left">Installer window</h3>
 <p align="center"><img src="https://i.imgur.com/gD9EjWy.png"/>
 
-<h3 align="left">Program installation window</h3>
+<h4 align="left">Program installation window</h3>
 <p align="center"><img src="https://i.imgur.com/miW1J4T.png"/>
 
-<h3 align="left">Program window TeraToolbox</h3>
+<h4 align="left">Program window TeraToolbox</h3>
 <p align="center"><img src="https://i.imgur.com/6H3Vyxs.png"/>
 
 ## List of Mods
