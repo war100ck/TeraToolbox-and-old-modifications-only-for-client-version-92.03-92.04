@@ -3,7 +3,9 @@
 <h3 align="center">TeraToolbox and old modifications only for client version 92.03-92.04</h3>
 
 ## TeraToolbox 92.03-92.04
-- [TeraToolbox 92.03-92.04](https://drive.google.com/file/d/1PVa8EkXZmhuuxjf4NVyy9HMx94VwRHno/view?usp=sharing) - You can download it here
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5ABDF7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&width=650&height=35&lines=%E2%86%93+Download+TeraToolbox+you+can+follow+the+link+below+%E2%86%93)](https://git.io/typing-svg)
+
+[⬇ Download TeraToolbox 92.03-92.04 ⬇ ](https://drive.google.com/file/d/1PVa8EkXZmhuuxjf4NVyy9HMx94VwRHno/view?usp=sharing)
 
 <h3 align="left">Installer window</h3>
 <p align="center"><img src="https://i.imgur.com/gD9EjWy.png"/>
